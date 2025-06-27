@@ -20,6 +20,3 @@ INSERT INTO Clientes (id_cliente,nome) VALUES
 INSERT INTO Pedidos (id_pedido,id_cliente,data_pedido) VALUES
 (101, 1, '2025-06-01'),
 (102, 2, '2025-06-02');
-
-INSERT INTO Pedidos (id_pedido,id_cliente,data_pedido) VALUES
-(103, 3, '2025-06-03');

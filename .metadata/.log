@@ -4189,3 +4189,33 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\4555219
 
 !ENTRY org.eclipse.ui 4 4 2025-06-27 20:29:14.700
 !MESSAGE Unable to create menu item "null", command "com.dbeaver.ai.sql.suggestion" not defined
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-06-27 20:49:19.286
+!MESSAGE Erro SQL [1452] [23000]: (conn=214) Cannot add or update a child row: a foreign key constraint fails (`mi_basedatos`.`Pedidos`, CONSTRAINT `Pedidos_ibfk_1` FOREIGN KEY (`id_cliente`) REFERENCES `Clientes` (`id_cliente`))
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2025-06-27 20:49:19.286
+!MESSAGE (conn=214) Cannot add or update a child row: a foreign key constraint fails (`mi_basedatos`.`Pedidos`, CONSTRAINT `Pedidos_ibfk_1` FOREIGN KEY (`id_cliente`) REFERENCES `Clientes` (`id_cliente`))
+!STACK 0
+java.sql.SQLIntegrityConstraintViolationException: (conn=214) Cannot add or update a child row: a foreign key constraint fails (`mi_basedatos`.`Pedidos`, CONSTRAINT `Pedidos_ibfk_1` FOREIGN KEY (`id_cliente`) REFERENCES `Clientes` (`id_cliente`))
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:297)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:572)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4486)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
