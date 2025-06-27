@@ -1,0 +1,37 @@
+{
+	"folders": {},
+	"connections": {
+		"mariaDB-197237d387e-5f42b1cf358fc709": {
+			"provider": "mysql",
+			"driver": "mariaDB",
+			"name": "82.112.244.132",
+			"save-password": true,
+			"configuration": {
+				"host": "82.112.244.132",
+				"port": "8085",
+				"url": "jdbc:mariadb://82.112.244.132:8085/",
+				"configurationType": "MANUAL",
+				"home": "mariadb_client",
+				"type": "dev",
+				"closeIdleConnection": true,
+				"auth-model": "native"
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Desenvolvimento",
+			"color": "255,255,255",
+			"description": "Banco de dados de desenvolvimento",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"smart-commit": false,
+			"smart-commit-recover": true,
+			"auto-close-transactions": true,
+			"close-transactions-period": 1800,
+			"auto-close-connections": true,
+			"close-connections-period": 14400
+		}
+	}
+}

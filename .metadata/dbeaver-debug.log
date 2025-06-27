@@ -1,0 +1,118 @@
+2025-06-27 20:21:22.346 - DBeaver 25.1.1.202506221557 is starting
+2025-06-27 20:21:22.346 - OS: Windows 10 10.0 (amd64)
+2025-06-27 20:21:22.346 - Java version: 21.0.5 by Eclipse Adoptium (64bit)
+2025-06-27 20:21:22.346 - Install path: 'C:\Users\4555219200\AppData\Local\DBeaver'
+2025-06-27 20:21:22.346 - Instance path: 'file:/C:/Users/4555219200/Documents/BancoDados/'
+2025-06-27 20:21:22.346 - Memory available 64Mb/1024Mb
+2025-06-27 20:21:22.361 - Create display
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.22.600.v20250523-1502]
+2025-06-27 20:21:22.533 - Initialize desktop platform...
+2025-06-27 20:21:22.665 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.11.200.v20250513-1234]
+> Start Core Resource Management [org.eclipse.core.resources 3.22.200.v20250513-1234]
+> Start Core de Suporte para Equipe [org.eclipse.team.core 3.10.700.v20250313-0656]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.157.202506221557]
+2025-06-27 20:21:22.977 - Initialize base platform...
+2025-06-27 20:21:23.008 - Platform initialized (475ms)
+2025-06-27 20:21:23.055 - Starting instance server at http://localhost:49672
+2025-06-27 20:21:23.075 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.800.v20250422-1254]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.5.200.v20250326-1945]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.500.v20250123-0754]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.800.v20250422-1254]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.600.v20250331-1050]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.600.v20250307-1331]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.39.0.v20250414-1351]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.500.v20250213-1508]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.700.v20250422-1254]
+Warning: NLS unused message: WorkbenchPreference_reuseEditorsThreshold in: org.eclipse.ui.internal.messages
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.800.v20250519-1609]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.600.v20250409-1135]
+> Start Editor de Texto Padrão [org.eclipse.ui.editors 3.20.0.v20250514-1719]
+> Start Workbench [org.eclipse.ui.workbench.texteditor 3.19.200.v20250514-1719]
+2025-06-27 20:21:24.951 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.147.202506221557]
+2025-06-27 20:21:25.126 - Total database drivers: 124 (124)
+> Start Core do Sistema de Ajuda [org.eclipse.help 3.10.500.v20250423-1201]
+2025-06-27 20:21:25.226 - Create actions
+2025-06-27 20:21:25.235 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2025-06-27 20:21:25.236 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2025-06-27 20:21:25.236 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2025-06-27 20:21:25.236 - Create workbench actions
+2025-06-27 20:21:25.860 - Initialize workbench window
+2025-06-27 20:21:25.866 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.157.202506221557]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.600.v20250521-0413]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.400.v20240413-1529]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.700.v20250313-0656]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.157.202506221557]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ui.config.sample 1.0.194.202506221557]
+2025-06-27 20:21:27.260 - Open [https://dbeaver.io/product/version.xml]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.20.0.202505280821]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.22.0.202505280821]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.117.202506221557]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.117.202506221557]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.154.202506221557]
+2025-06-27 20:21:28.323 - Open [https://repo1.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.5.2/mariadb-java-client-3.5.2.pom]
+2025-06-27 20:21:28.952 - Open [https://repo1.maven.org/maven2/org/junit/junit-bom/5.7.0/junit-bom-5.7.0.pom]
+2025-06-27 20:21:29.105 - Open [https://repo1.maven.org/maven2/software/amazon/awssdk/bom/2.21.1/bom-2.21.1.pom]
+2025-06-27 20:21:29.396 - Open [https://repo1.maven.org/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.21.1/aws-sdk-java-pom-2.21.1.pom]
+2025-06-27 20:21:45.195 - Open [https://repo1.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.5.2/mariadb-java-client-3.5.2.jar]
+2025-06-27 20:21:46.284 - Connect with 'miBD-hostinger' (mariaDB-197237d387e-5f42b1cf358fc709)
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.50.202506221557]
+> Start DBeaver MySQL Support [org.jkiss.dbeaver.ext.mysql 2.1.242.202506221557]
+2025-06-27 20:21:46.340 - Execution context opened (miBD-hostinger; Main; 0)
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.181.202506221557]
+2025-06-27 20:21:46.595 - Execution context opened (miBD-hostinger; Metadata; 1)
+2025-06-27 20:21:47.016 - Connected (mariaDB-197237d387e-5f42b1cf358fc709, MariaDB Connector/J [3.5.2])
+Warning: NLS unused message: FindReplace_RegExCheckbox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WrapCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Options in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceSelectionButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectedRangeRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_GlobalRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WholeWordCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceFindButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_BackwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CloseButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Replace_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CaseCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_replacements_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_title in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Direction in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Scope in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Find_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ForwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_FindNextButton_label in: org.eclipse.ui.texteditor.EditorMessages
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.133.202506221557]
+> Start Núcleo de Suporte a Comparação [org.eclipse.compare.core 3.8.700.v20250120-0641]
+> Start Console [org.eclipse.ui.console 3.14.300.v20250509-1251]
+> Start Depurar Core [org.eclipse.debug.core 3.23.0.v20250509-1924]
+2025-06-27 20:29:15.578 - Execution context opened (miBD-hostinger; SQLEditor <Product.sql>; 2)
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.135.202506221557]
+> Start DBeaver MySQL UI Support [org.jkiss.dbeaver.ext.mysql.ui 1.0.149.202506221557]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.135.202506221557]
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.52.202506221557]
+2025-06-27 20:30:24.709 - Execution context opened (miBD-hostinger; SQLEditor <Script.sql>; 3)
+2025-06-27 20:33:03.842 - Execution context closed (miBD-hostinger, 2)
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.141.202506221557]
+2025-06-27 20:39:29.285 - Duplicate object name 'GEOMETRY' in cache JDBCBasicDataTypeCache. Last value: `GEOMETRY`
+2025-06-27 20:39:29.285 - Duplicate object name 'POINT' in cache JDBCBasicDataTypeCache. Last value: `POINT`
+2025-06-27 20:39:29.286 - Duplicate object name 'LINESTRING' in cache JDBCBasicDataTypeCache. Last value: LINESTRING
+2025-06-27 20:39:29.286 - Duplicate object name 'POLYGON' in cache JDBCBasicDataTypeCache. Last value: POLYGON
+2025-06-27 20:39:29.286 - Duplicate object name 'MULTIPOINT' in cache JDBCBasicDataTypeCache. Last value: MULTIPOINT
+2025-06-27 20:39:29.286 - Duplicate object name 'MULTILINESTRING' in cache JDBCBasicDataTypeCache. Last value: MULTILINESTRING
+2025-06-27 20:39:29.286 - Duplicate object name 'MULTIPOLYGON' in cache JDBCBasicDataTypeCache. Last value: MULTIPOLYGON
+2025-06-27 20:39:29.286 - Duplicate object name 'GEOMETRYCOLLECTION' in cache JDBCBasicDataTypeCache. Last value: GEOMETRYCOLLECTION
+2025-06-27 20:39:43.083 - Duplicate object name 'GEOMETRY' in cache JDBCBasicDataTypeCache. Last value: `GEOMETRY`
+2025-06-27 20:39:43.084 - Duplicate object name 'POINT' in cache JDBCBasicDataTypeCache. Last value: `POINT`
+2025-06-27 20:39:43.085 - Duplicate object name 'LINESTRING' in cache JDBCBasicDataTypeCache. Last value: LINESTRING
+2025-06-27 20:39:43.085 - Duplicate object name 'POLYGON' in cache JDBCBasicDataTypeCache. Last value: POLYGON
+2025-06-27 20:39:43.085 - Duplicate object name 'MULTIPOINT' in cache JDBCBasicDataTypeCache. Last value: MULTIPOINT
+2025-06-27 20:39:43.085 - Duplicate object name 'MULTILINESTRING' in cache JDBCBasicDataTypeCache. Last value: MULTILINESTRING
+2025-06-27 20:39:43.085 - Duplicate object name 'MULTIPOLYGON' in cache JDBCBasicDataTypeCache. Last value: MULTIPOLYGON
+2025-06-27 20:39:43.085 - Duplicate object name 'GEOMETRYCOLLECTION' in cache JDBCBasicDataTypeCache. Last value: GEOMETRYCOLLECTION
+2025-06-27 20:40:12.581 - Execution context opened (miBD-hostinger; SQLEditor <InsertProduct.sql>; 4)

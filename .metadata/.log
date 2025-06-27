@@ -1,0 +1,4191 @@
+!SESSION 2025-05-30 20:17:25.773 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -eclipse.keyring C:\Users\4555219200\AppData\Roaming\DBeaverData\secure\secure_storage
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\4555219200\Documents\BancoDados -eclipse.keyring C:\Users\4555219200\AppData\Roaming\DBeaverData\secure\secure_storage
+
+!ENTRY org.eclipse.ui 2 2 2025-05-30 20:17:30.668
+!MESSAGE Invalid preference category path: org.eclipse.debug.ui.ConsolePreferencePage (bundle: org.eclipse.ui.console, page: org.eclipse.ui.internal.console.ansi.preferences.AnsiConsolePreferencePage)
+!SESSION 2025-05-30 20:18:02.871 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -eclipse.keyring C:\Users\4555219200\AppData\Roaming\DBeaverData\secure\secure_storage
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\4555219200\Documents\BancoDados -eclipse.keyring C:\Users\4555219200\AppData\Roaming\DBeaverData\secure\secure_storage
+
+!ENTRY org.eclipse.ui 2 2 2025-05-30 20:18:07.735
+!MESSAGE Invalid preference category path: org.eclipse.debug.ui.ConsolePreferencePage (bundle: org.eclipse.ui.console, page: org.eclipse.ui.internal.console.ansi.preferences.AnsiConsolePreferencePage)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.367
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.369
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.370
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.370
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.371
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.371
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.372
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.373
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.373
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.374
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.374
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.375
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.376
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.376
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.377
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.378
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.378
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.379
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.379
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.380
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.381
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.381
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.382
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.382
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.383
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.384
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.384
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.385
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.385
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.386
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.386
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.387
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.387
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.388
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.389
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.389
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.390
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.391
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.391
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.392
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.393
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.393
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.393
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.394
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.394
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.395
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.395
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.396
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.396
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.397
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.397
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.398
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.398
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.399
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.399
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.400
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.400
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.401
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.402
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.403
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.403
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.404
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.404
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.405
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.406
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.406
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.407
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.407
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.408
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.408
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.409
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.409
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.410
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.410
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.410
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.411
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.412
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.412
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.413
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.413
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.414
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.414
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.415
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.416
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.416
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.417
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.417
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.418
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.418
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.419
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.419
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.419
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.420
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.420
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.421
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.422
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.422
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.423
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.424
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.424
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.425
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.425
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.426
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.426
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.427
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.427
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.428
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.429
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.429
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.430
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.430
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.431
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.432
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.433
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.433
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.434
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.435
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.435
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.435
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.436
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.436
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.438
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.438
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.439
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.439
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.440
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.440
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.441
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.441
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.442
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.442
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.442
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.443
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.443
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.444
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.444
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.445
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.445
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.446
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.446
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.447
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.447
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.448
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.448
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.449
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.449
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.450
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.450
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.451
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.451
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.452
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.452
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.453
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.453
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.454
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.455
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.455
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.456
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.457
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.457
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.458
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.458
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.459
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.459
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.459
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.460
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.460
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.461
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.466
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.467
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.468
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.468
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.468
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.469
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.469
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.470
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.470
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.471
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.471
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.472
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.472
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:04.472
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.520
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.535
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.551
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.552
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.552
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.553
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.554
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.555
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.555
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.556
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.556
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.557
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.557
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.558
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.558
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.559
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.559
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.560
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.560
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.560
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.561
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.561
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.562
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.563
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.563
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.564
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.564
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.565
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.566
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.566
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.567
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.567
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.568
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.568
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.569
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.569
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.570
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.570
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.570
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.571
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.571
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.572
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.573
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.573
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.574
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.574
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.575
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.576
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.576
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.577
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.577
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.577
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.578
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.578
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.579
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.579
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.580
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.580
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.581
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.581
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.582
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.582
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.583
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.583
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.584
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.585
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.585
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.586
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.587
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.587
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.588
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.588
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.588
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.589
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.589
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.590
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.590
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.591
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.591
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.592
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.592
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.593
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.593
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.593
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.594
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.594
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.595
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.596
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.597
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.597
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.598
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.598
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.599
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.599
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.600
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.600
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.601
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.601
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.602
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.602
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.603
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.603
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.603
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.604
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.604
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.605
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.605
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.606
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.606
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.607
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.607
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.608
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.608
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.609
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.609
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.610
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.610
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.611
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.611
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.612
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.612
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.613
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.613
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.614
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.614
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.614
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.615
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.616
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.616
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.617
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.617
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.618
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.618
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.619
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.619
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.620
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.620
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.621
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.622
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.623
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.624
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.625
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.626
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.626
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.627
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.627
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.628
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.628
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.629
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.629
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.630
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.630
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.631
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.631
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.632
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:11.632
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.400
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.401
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.402
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.403
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.403
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.404
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.405
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.406
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.406
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.407
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.408
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.409
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.409
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.410
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.411
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.412
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.412
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.412
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.413
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.413
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.415
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.415
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.416
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.416
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.416
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.416
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.417
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.417
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.418
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.418
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.420
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.420
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.421
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.421
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.421
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.421
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.422
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.422
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.423
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.424
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.424
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.425
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.425
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.426
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.427
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.427
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.427
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.428
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.428
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.429
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.429
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.429
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.430
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.430
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.431
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.431
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.431
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.432
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.432
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.433
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.433
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.434
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.434
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.434
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.435
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.435
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.436
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.436
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.436
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.438
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.438
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.438
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.439
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.439
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.439
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.440
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.440
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.441
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.441
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.441
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.442
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.442
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.442
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.443
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.443
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.443
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.444
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.445
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.445
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.445
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.446
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.446
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.447
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.447
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.447
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.448
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.448
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.449
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.449
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.450
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.450
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.451
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.451
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.451
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.452
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.452
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.453
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.453
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.453
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.454
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.454
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.454
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.455
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.455
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.456
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.456
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.457
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.458
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.458
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.458
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.459
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.459
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.460
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.460
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.460
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.461
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.461
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.461
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.462
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.462
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.462
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.463
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.463
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.464
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.464
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.464
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.465
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.465
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.466
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.466
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.467
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.467
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.468
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.468
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.469
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.469
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.470
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.470
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.471
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.471
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.472
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.472
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.473
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.473
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.473
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.474
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.474
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.475
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.475
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.476
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.476
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.477
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.477
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.480
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.481
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.481
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.482
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.483
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.483
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.484
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.484
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.485
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.486
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.486
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.487
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.489
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.490
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.491
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.493
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.494
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.494
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.495
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:19:37.496
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.eclipse.ui 4 4 2025-05-30 20:22:33.666
+!MESSAGE Unable to create menu item "null", command "com.dbeaver.ai.sql.suggestion" not defined
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-05-30 20:28:36.196
+!MESSAGE No unique key defined
+!STACK 0
+org.jkiss.dbeaver.model.exec.DBCException: No unique key defined
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetPersister.checkEntityIdentifiers(ResultSetPersister.java:648)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer.createDataPersister(ResultSetViewer.java:4585)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer.saveChanges(ResultSetViewer.java:4497)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer.applyChanges(ResultSetViewer.java:4485)
+	at org.jkiss.dbeaver.ui.controls.resultset.handler.ResultSetHandlerMain.execute(ResultSetHandlerMain.java:327)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:277)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:98)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:299)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:233)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:204)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:444)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:455)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:477)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4321)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1208)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4119)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3707)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-05-30 20:29:08.353
+!MESSAGE Erro SQL [1046] [3D000]: (conn=150) No database selected
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2025-05-30 20:29:08.353
+!MESSAGE (conn=150) No database selected
+!STACK 0
+java.sql.SQLTransientConnectionException: (conn=150) No database selected
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:309)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:572)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-05-30 20:36:07.061
+!MESSAGE Erro SQL [1064] [42000]: (conn=149) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':' at line 1
+
+Posição do erro:
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2025-05-30 20:36:07.061
+!MESSAGE Erro SQL [1064] [42000]: (conn=149) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':' at line 1
+!SUBENTRY 2 org.jkiss.dbeaver.model 4 0 2025-05-30 20:36:07.061
+!MESSAGE (conn=149) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':' at line 1
+!STACK 0
+java.sql.SQLSyntaxErrorException: (conn=149) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':' at line 1
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.420
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.420
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.421
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.421
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.422
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.422
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.422
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.423
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.423
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.423
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.424
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.424
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.425
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.425
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.425
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.426
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.426
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.427
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.427
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.427
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.428
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.428
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.428
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.429
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.429
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.429
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.430
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.430
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.431
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.431
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.431
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.432
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.432
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.432
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.433
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.434
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.434
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.435
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.435
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.436
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.436
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.453
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.453
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.454
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.455
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.456
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.457
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.458
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.458
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.459
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.459
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.460
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.461
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.461
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.462
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.462
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.463
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.463
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.464
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.464
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.465
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.465
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.466
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.466
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.466
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.467
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.467
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.468
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.469
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.469
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.470
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.470
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.471
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.471
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.472
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.472
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.473
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.473
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.474
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.474
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.475
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.475
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.476
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.476
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.477
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.478
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.478
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.479
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.479
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.480
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.480
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.481
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.481
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.482
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.482
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.482
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.483
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.483
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.484
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.484
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.484
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.485
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.485
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.486
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.486
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.486
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.487
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.487
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.488
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.488
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.488
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.489
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.489
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.490
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.490
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.491
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.491
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.492
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.492
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.493
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.493
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.493
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.494
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.494
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.495
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.495
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.495
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.496
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.496
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.497
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.497
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.497
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.498
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.498
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.498
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.499
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.499
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.500
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.500
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.501
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.501
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.502
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.502
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.503
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.503
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.503
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.504
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:51:32.504
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.415
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.416
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.416
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.417
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.418
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.418
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.419
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.419
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.420
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.420
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.421
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.421
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.421
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.422
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.422
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.423
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.423
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.424
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.424
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.425
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.425
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.425
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.426
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.426
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.427
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.427
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.428
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.428
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.429
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.430
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.430
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.430
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.431
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.431
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.432
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.432
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.433
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.433
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.434
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.434
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.434
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.435
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.435
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.436
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.436
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.437
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.438
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.438
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.439
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.439
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.439
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.440
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.440
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.441
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.441
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.442
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.442
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.442
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.443
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.443
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.444
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.444
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.444
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.445
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.445
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.446
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.446
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.446
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.447
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.447
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.448
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.448
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.449
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.449
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.450
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.450
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.451
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.451
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.451
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.452
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.452
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.452
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.453
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.453
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.454
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.454
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.454
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.455
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.455
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.455
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.456
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.456
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.457
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.457
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.457
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.458
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.458
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.459
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.459
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.460
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.460
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.461
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.461
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.462
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.462
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.462
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.463
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.463
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.463
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.464
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.464
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.465
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.465
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.466
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.466
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.466
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.467
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.467
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.468
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.468
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.468
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.469
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.469
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.470
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.470
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.471
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.471
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.472
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.472
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.472
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.473
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.473
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.474
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.474
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.474
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.475
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.475
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.476
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.476
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.477
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.477
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.477
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.478
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.478
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.479
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.479
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.480
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.480
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.480
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.481
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.481
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.482
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.482
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.482
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.483
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.483
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.484
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.484
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.484
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.485
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.485
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.486
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.486
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.486
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.487
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.487
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.487
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.488
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.488
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.489
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.489
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.489
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.490
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.490
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.491
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.491
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.492
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.492
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.493
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.493
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.493
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.494
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:52:19.494
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-05-30 20:54:46.251
+!MESSAGE Erro SQL [1068] [42000]: (conn=154) Multiple primary key defined
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2025-05-30 20:54:46.252
+!MESSAGE (conn=154) Multiple primary key defined
+!STACK 0
+java.sql.SQLSyntaxErrorException: (conn=154) Multiple primary key defined
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.253
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.253
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.254
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.254
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.255
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.255
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.255
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.256
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.256
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.256
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.257
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.257
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.258
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.258
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.258
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.259
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.259
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.260
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.260
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.260
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.261
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.261
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.262
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.262
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.262
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.263
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.263
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.263
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.264
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.264
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.265
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.265
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.266
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.266
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.267
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.267
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.267
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.268
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.268
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.268
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.269
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.269
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.269
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.270
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.270
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.271
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.271
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.271
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.272
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.272
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.272
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.273
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.273
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.274
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.274
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.274
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.275
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.275
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.276
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.276
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.276
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.277
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.277
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.278
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.278
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.278
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.279
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.279
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.279
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.280
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.280
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.281
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.281
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.281
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.282
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.282
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.283
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.283
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.283
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.284
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.284
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.284
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.285
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.285
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.286
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.286
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.287
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.287
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.288
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.288
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.288
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.289
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.289
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.290
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.290
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.291
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.291
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.292
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.292
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.293
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.293
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.294
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.294
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.294
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.295
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.295
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.296
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.296
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.297
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.297
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.298
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.298
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.299
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.299
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.300
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.300
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.300
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.301
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.301
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.301
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.302
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.302
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.302
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.303
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.303
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.303
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.304
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.304
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.304
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.305
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.305
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.305
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.306
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.306
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.306
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.306
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.307
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.307
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.308
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.308
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.309
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.309
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.309
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.310
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.310
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.311
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.311
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.312
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.312
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.312
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.313
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.313
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.313
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.314
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.314
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.314
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.314
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.315
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.315
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.315
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.316
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.316
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.316
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.317
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.318
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.318
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.319
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.319
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.320
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.320
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.321
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.321
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.322
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.322
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.322
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.323
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.323
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.323
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.324
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.324
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.324
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.325
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.325
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 20:55:19.325
+!MESSAGE Charset 'null' not found.
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-05-30 20:58:15.785
+!MESSAGE Erro SQL [1364] [HY000]: (conn=157) Field 'id' doesn't have a default value
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2025-05-30 20:58:15.785
+!MESSAGE (conn=157) Field 'id' doesn't have a default value
+!STACK 0
+java.sql.SQLException: (conn=157) Field 'id' doesn't have a default value
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:306)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:572)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-05-30 21:02:06.872
+!MESSAGE Erro SQL [1064] [42000]: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'productos order by nome
+LIMIT 0, 200' at line 1
+
+Posição do erro:
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2025-05-30 21:02:06.872
+!MESSAGE Erro SQL [1064] [42000]: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'productos order by nome
+LIMIT 0, 200' at line 1
+!SUBENTRY 2 org.jkiss.dbeaver.model 4 0 2025-05-30 21:02:06.872
+!MESSAGE (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'productos order by nome
+LIMIT 0, 200' at line 1
+!STACK 0
+java.sql.SQLSyntaxErrorException: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'productos order by nome
+LIMIT 0, 200' at line 1
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-05-30 21:02:18.941
+!MESSAGE Erro SQL [1146] [42S02]: (conn=160) Table 'mi_basedatos.productos' doesn't exist
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2025-05-30 21:02:18.941
+!MESSAGE (conn=160) Table 'mi_basedatos.productos' doesn't exist
+!STACK 0
+java.sql.SQLSyntaxErrorException: (conn=160) Table 'mi_basedatos.productos' doesn't exist
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-05-30 21:05:38.465
+!MESSAGE Erro SQL [1054] [42S22]: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2025-05-30 21:05:38.465
+!MESSAGE (conn=160) Unknown column 'Notebooks' in 'WHERE'
+!STACK 0
+java.sql.SQLSyntaxErrorException: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-05-30 21:08:22.332
+!MESSAGE Erro SQL [1054] [42S22]: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2025-05-30 21:08:22.332
+!MESSAGE (conn=160) Unknown column 'Notebooks' in 'WHERE'
+!STACK 0
+java.sql.SQLSyntaxErrorException: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-05-30 21:09:28.273
+!MESSAGE Erro SQL [1054] [42S22]: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2025-05-30 21:09:28.273
+!MESSAGE (conn=160) Unknown column 'Notebooks' in 'WHERE'
+!STACK 0
+java.sql.SQLSyntaxErrorException: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-05-30 21:13:27.662
+!MESSAGE Erro SQL [1064] [42000]: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '00' at line 4
+
+Posição do erro: line: 3
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2025-05-30 21:13:27.663
+!MESSAGE Erro SQL [1064] [42000]: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '00' at line 4
+!SUBENTRY 2 org.jkiss.dbeaver.model 4 0 2025-05-30 21:13:27.663
+!MESSAGE (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '00' at line 4
+!STACK 0
+java.sql.SQLSyntaxErrorException: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '00' at line 4
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jkiss.dbeaver.model 4 0 2025-05-30 21:18:06.768
+!MESSAGE Erro SQL [1064] [42000]: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'stoque' at line 2
+!SUBENTRY 1 org.jkiss.dbeaver.model 4 0 2025-05-30 21:18:06.768
+!MESSAGE (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'stoque' at line 2
+!STACK 0
+java.sql.SQLSyntaxErrorException: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'stoque' at line 2
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 21:50:28.938
+!MESSAGE SWT resource leak detected
+!SUBENTRY 1 org.jkiss.dbeaver.model 2 0 2025-05-30 21:50:28.938
+!MESSAGE SWT Resource was not properly disposed
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:226)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.doSetInput(SQLEditor.java:2333)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInputWithNotify(AbstractTextEditor.java:4249)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInput(AbstractTextEditor.java:4269)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener$1.run(AbstractTextEditor.java:537)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.execute(AbstractTextEditor.java:598)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.elementMoved(AbstractTextEditor.java:565)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider$FileBufferListener.underlyingFileMoved(TextFileDocumentProvider.java:335)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager$6.run(TextFileBufferManager.java:710)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.fireUnderlyingFileMoved(TextFileBufferManager.java:707)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.handleFileMoved(ResourceFileBuffer.java:422)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$FileSynchronizer$3.execute(ResourceFileBuffer.java:163)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$SafeFileChange.run(ResourceFileBuffer.java:86)
+	at org.eclipse.ui.internal.editors.text.UISynchronizationContext.run(UISynchronizationContext.java:35)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.execute(TextFileBufferManager.java:593)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$FileSynchronizer.resourceChanged(ResourceFileBuffer.java:184)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:321)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:311)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:174)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:465)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1593)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1564)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1515)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerRenameFile.renameFile(SQLEditorHandlerRenameFile.java:84)
+	at org.jkiss.dbeaver.ui.e4.DBeaverStackRenderer$5.widgetSelected(DBeaverStackRenderer.java:254)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:286)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4321)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1208)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4119)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3707)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.753
+!MESSAGE SWT resource leak detected
+!SUBENTRY 1 org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.753
+!MESSAGE SWT Resource was not properly disposed
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:599)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:362)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:311)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:289)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getCompositeIcon(DBeaverIcons.java:171)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getIconDescriptor(DBeaverIcons.java:123)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getImage(DBeaverIcons.java:94)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.refreshEditorIconAndTitle(SQLEditor.java:3165)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.onDataSourceChange(SQLEditor.java:3080)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.lambda$35(SQLEditor.java:3327)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4094)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3710)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.755
+!MESSAGE SWT resource leak detected
+!SUBENTRY 1 org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.755
+!MESSAGE SWT Resource was not properly disposed
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:599)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:362)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:311)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:289)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getCompositeIcon(DBeaverIcons.java:171)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getIconDescriptor(DBeaverIcons.java:123)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getImage(DBeaverIcons.java:94)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.refreshEditorIconAndTitle(SQLEditor.java:3165)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.onDataSourceChange(SQLEditor.java:3080)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.lambda$35(SQLEditor.java:3327)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4094)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3710)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.759
+!MESSAGE SWT resource leak detected
+!SUBENTRY 1 org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.759
+!MESSAGE SWT Resource was not properly disposed
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:599)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:362)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:311)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:289)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getCompositeIcon(DBeaverIcons.java:171)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getIconDescriptor(DBeaverIcons.java:123)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getImage(DBeaverIcons.java:94)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.refreshEditorIconAndTitle(SQLEditor.java:3165)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.onDataSourceChange(SQLEditor.java:3080)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.lambda$35(SQLEditor.java:3327)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4094)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3710)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.762
+!MESSAGE SWT resource leak detected
+!SUBENTRY 1 org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.762
+!MESSAGE SWT Resource was not properly disposed
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:599)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:362)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:311)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:289)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getCompositeIcon(DBeaverIcons.java:171)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getIconDescriptor(DBeaverIcons.java:123)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getImage(DBeaverIcons.java:94)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.refreshEditorIconAndTitle(SQLEditor.java:3165)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.onDataSourceChange(SQLEditor.java:3080)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.lambda$35(SQLEditor.java:3327)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4094)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3710)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.765
+!MESSAGE SWT resource leak detected
+!SUBENTRY 1 org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.765
+!MESSAGE SWT Resource was not properly disposed
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:599)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:362)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:311)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:289)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getCompositeIcon(DBeaverIcons.java:171)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getIconDescriptor(DBeaverIcons.java:123)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getImage(DBeaverIcons.java:94)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.refreshEditorIconAndTitle(SQLEditor.java:3165)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.onDataSourceChange(SQLEditor.java:3080)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.lambda$35(SQLEditor.java:3327)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4094)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3710)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.768
+!MESSAGE SWT resource leak detected
+!SUBENTRY 1 org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.768
+!MESSAGE SWT Resource was not properly disposed
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:599)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:362)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:311)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:289)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getCompositeIcon(DBeaverIcons.java:171)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getIconDescriptor(DBeaverIcons.java:123)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getImage(DBeaverIcons.java:94)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.refreshEditorIconAndTitle(SQLEditor.java:3165)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.onDataSourceChange(SQLEditor.java:3080)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.lambda$35(SQLEditor.java:3327)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4094)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3710)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.771
+!MESSAGE SWT resource leak detected
+!SUBENTRY 1 org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.771
+!MESSAGE SWT Resource was not properly disposed
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:599)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:362)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:311)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:289)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getCompositeIcon(DBeaverIcons.java:171)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getIconDescriptor(DBeaverIcons.java:123)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getImage(DBeaverIcons.java:94)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.refreshEditorIconAndTitle(SQLEditor.java:3165)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.onDataSourceChange(SQLEditor.java:3080)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.lambda$35(SQLEditor.java:3327)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4094)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3710)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.774
+!MESSAGE SWT resource leak detected
+!SUBENTRY 1 org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.774
+!MESSAGE SWT Resource was not properly disposed
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:599)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:362)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:311)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:289)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getCompositeIcon(DBeaverIcons.java:171)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getIconDescriptor(DBeaverIcons.java:123)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getImage(DBeaverIcons.java:94)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.refreshEditorIconAndTitle(SQLEditor.java:3165)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.onDataSourceChange(SQLEditor.java:3080)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.lambda$35(SQLEditor.java:3327)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4094)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3710)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+
+!ENTRY org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.776
+!MESSAGE SWT resource leak detected
+!SUBENTRY 1 org.jkiss.dbeaver.model 2 0 2025-05-30 21:57:51.776
+!MESSAGE SWT Resource was not properly disposed
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:599)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:362)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:311)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:289)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getCompositeIcon(DBeaverIcons.java:171)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getIconDescriptor(DBeaverIcons.java:123)
+	at org.jkiss.dbeaver.ui.DBeaverIcons.getImage(DBeaverIcons.java:94)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.refreshEditorIconAndTitle(SQLEditor.java:3165)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.onDataSourceChange(SQLEditor.java:3080)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.lambda$35(SQLEditor.java:3327)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4094)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3710)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+!SESSION 2025-06-27 20:21:20.795 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -eclipse.keyring C:\Users\4555219200\AppData\Roaming\DBeaverData\secure\secure_storage
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\4555219200\Documents\BancoDados -eclipse.keyring C:\Users\4555219200\AppData\Roaming\DBeaverData\secure\secure_storage
+
+!ENTRY org.eclipse.ui 2 2 2025-06-27 20:21:26.951
+!MESSAGE Invalid preference category path: org.eclipse.debug.ui.ConsolePreferencePage (bundle: org.eclipse.ui.console, page: org.eclipse.ui.internal.console.ansi.preferences.AnsiConsolePreferencePage)
+
+!ENTRY org.eclipse.ui 4 4 2025-06-27 20:29:14.700
+!MESSAGE Unable to create menu item "null", command "com.dbeaver.ai.sql.suggestion" not defined

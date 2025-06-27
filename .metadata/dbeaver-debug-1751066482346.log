@@ -1,0 +1,1757 @@
+2025-05-30 20:18:04.360 - DBeaver 25.0.5.202505181758 is starting
+2025-05-30 20:18:04.360 - OS: Windows 10 10.0 (amd64)
+2025-05-30 20:18:04.360 - Java version: 21.0.5 by Eclipse Adoptium (64bit)
+2025-05-30 20:18:04.360 - Install path: 'C:\Users\4555219200\AppData\Local\DBeaver'
+2025-05-30 20:18:04.360 - Instance path: 'file:/C:/Users/4555219200/Documents/BancoDados/'
+2025-05-30 20:18:04.360 - Memory available 64Mb/1024Mb
+2025-05-30 20:18:04.376 - Create display
+> Start Eclipse IDE UI [org.eclipse.ui.ide 3.22.500.v20250124-0833]
+2025-05-30 20:18:04.532 - Initialize desktop platform...
+2025-05-30 20:18:04.666 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.11.100.v20241022-0806]
+> Start Core Resource Management [org.eclipse.core.resources 3.22.100.v20250206-1238]
+> Start Core de Suporte para Equipe [org.eclipse.team.core 3.10.600.v20250120-0641]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.155.202505181758]
+2025-05-30 20:18:04.870 - Initialize base platform...
+2025-05-30 20:18:04.895 - Platform initialized (363ms)
+2025-05-30 20:18:04.927 - Starting instance server at http://localhost:59498
+2025-05-30 20:18:04.943 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.17.700.v20250123-0706]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.5.100.v20250131-1039]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.500.v20250123-0754]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.4.700.v20241015-1729]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.14.500.v20241015-1729]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.500.v20241015-1729]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.38.0.v20240721-0634]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.14.500.v20250213-1508]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.5.600.v20241107-2150]
+Warning: NLS unused message: WorkbenchPreference_reuseEditorsThreshold in: org.eclipse.ui.internal.messages
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.16.700.v20250212-1224]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.15.500.v20241219-0802]
+> Start Editor de Texto Padrão [org.eclipse.ui.editors 3.19.100.v20250205-1448]
+> Start Workbench [org.eclipse.ui.workbench.texteditor 3.19.100.v20250206-1224]
+2025-05-30 20:18:06.454 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.145.202505181758]
+2025-05-30 20:18:06.614 - Total database drivers: 124 (124)
+> Start Core do Sistema de Ajuda [org.eclipse.help 3.10.400.v20240415-0528]
+2025-05-30 20:18:06.686 - Create actions
+2025-05-30 20:18:06.694 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2025-05-30 20:18:06.695 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2025-05-30 20:18:06.696 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2025-05-30 20:18:06.696 - Create workbench actions
+2025-05-30 20:18:07.084 - Initialize workbench window
+2025-05-30 20:18:07.089 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.155.202505181758]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.500.v20250129-1350]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.5.400.v20240413-1529]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.600.v20250124-0919]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.155.202505181758]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ui.config.sample 1.0.192.202505181758]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.19.0.202502242203]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.21.0.202502242203]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.115.202505181758]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.115.202505181758]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.152.202505181758]
+> Start DBeaver MySQL UI Support [org.jkiss.dbeaver.ext.mysql.ui 1.0.147.202505181758]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.48.202505181758]
+> Start DBeaver MySQL Support [org.jkiss.dbeaver.ext.mysql 2.1.240.202505181758]
+2025-05-30 20:18:18.533 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2025-05-30 20:18:18.667 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2025-05-30 20:18:48.424 - Open [https://repo1.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.5.2/mariadb-java-client-3.5.2.pom]
+2025-05-30 20:18:49.661 - Open [https://repo1.maven.org/maven2/org/junit/junit-bom/5.7.0/junit-bom-5.7.0.pom]
+2025-05-30 20:18:49.813 - Open [https://repo1.maven.org/maven2/software/amazon/awssdk/bom/2.21.1/bom-2.21.1.pom]
+2025-05-30 20:18:50.208 - Open [https://repo1.maven.org/maven2/software/amazon/awssdk/aws-sdk-java-pom/2.21.1/aws-sdk-java-pom-2.21.1.pom]
+2025-05-30 20:18:51.689 - Open [https://repo1.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.5.2/mariadb-java-client-3.5.2.jar]
+2025-05-30 20:19:03.618 - Connect with '82.112.244.132' (mariaDB-197237dacee-c5b44322156bc1a)
+2025-05-30 20:19:03.657 - Execution context opened (82.112.244.132; Main; 0)
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.179.202505181758]
+2025-05-30 20:19:04.366 - Charset 'null' not found.
+2025-05-30 20:19:04.368 - Charset 'null' not found.
+2025-05-30 20:19:04.369 - Charset 'null' not found.
+2025-05-30 20:19:04.370 - Charset 'null' not found.
+2025-05-30 20:19:04.371 - Charset 'null' not found.
+2025-05-30 20:19:04.371 - Charset 'null' not found.
+2025-05-30 20:19:04.372 - Charset 'null' not found.
+2025-05-30 20:19:04.372 - Charset 'null' not found.
+2025-05-30 20:19:04.373 - Charset 'null' not found.
+2025-05-30 20:19:04.373 - Charset 'null' not found.
+2025-05-30 20:19:04.374 - Charset 'null' not found.
+2025-05-30 20:19:04.375 - Charset 'null' not found.
+2025-05-30 20:19:04.375 - Charset 'null' not found.
+2025-05-30 20:19:04.376 - Charset 'null' not found.
+2025-05-30 20:19:04.376 - Charset 'null' not found.
+2025-05-30 20:19:04.377 - Charset 'null' not found.
+2025-05-30 20:19:04.378 - Charset 'null' not found.
+2025-05-30 20:19:04.378 - Charset 'null' not found.
+2025-05-30 20:19:04.379 - Charset 'null' not found.
+2025-05-30 20:19:04.380 - Charset 'null' not found.
+2025-05-30 20:19:04.380 - Charset 'null' not found.
+2025-05-30 20:19:04.381 - Charset 'null' not found.
+2025-05-30 20:19:04.381 - Charset 'null' not found.
+2025-05-30 20:19:04.382 - Charset 'null' not found.
+2025-05-30 20:19:04.382 - Charset 'null' not found.
+2025-05-30 20:19:04.383 - Charset 'null' not found.
+2025-05-30 20:19:04.384 - Charset 'null' not found.
+2025-05-30 20:19:04.384 - Charset 'null' not found.
+2025-05-30 20:19:04.385 - Charset 'null' not found.
+2025-05-30 20:19:04.385 - Charset 'null' not found.
+2025-05-30 20:19:04.386 - Charset 'null' not found.
+2025-05-30 20:19:04.386 - Charset 'null' not found.
+2025-05-30 20:19:04.387 - Charset 'null' not found.
+2025-05-30 20:19:04.387 - Charset 'null' not found.
+2025-05-30 20:19:04.388 - Charset 'null' not found.
+2025-05-30 20:19:04.389 - Charset 'null' not found.
+2025-05-30 20:19:04.389 - Charset 'null' not found.
+2025-05-30 20:19:04.390 - Charset 'null' not found.
+2025-05-30 20:19:04.391 - Charset 'null' not found.
+2025-05-30 20:19:04.392 - Charset 'null' not found.
+2025-05-30 20:19:04.392 - Charset 'null' not found.
+2025-05-30 20:19:04.393 - Charset 'null' not found.
+2025-05-30 20:19:04.393 - Charset 'null' not found.
+2025-05-30 20:19:04.394 - Charset 'null' not found.
+2025-05-30 20:19:04.394 - Charset 'null' not found.
+2025-05-30 20:19:04.395 - Charset 'null' not found.
+2025-05-30 20:19:04.395 - Charset 'null' not found.
+2025-05-30 20:19:04.395 - Charset 'null' not found.
+2025-05-30 20:19:04.396 - Charset 'null' not found.
+2025-05-30 20:19:04.396 - Charset 'null' not found.
+2025-05-30 20:19:04.397 - Charset 'null' not found.
+2025-05-30 20:19:04.397 - Charset 'null' not found.
+2025-05-30 20:19:04.398 - Charset 'null' not found.
+2025-05-30 20:19:04.398 - Charset 'null' not found.
+2025-05-30 20:19:04.399 - Charset 'null' not found.
+2025-05-30 20:19:04.399 - Charset 'null' not found.
+2025-05-30 20:19:04.400 - Charset 'null' not found.
+2025-05-30 20:19:04.400 - Charset 'null' not found.
+2025-05-30 20:19:04.402 - Charset 'null' not found.
+2025-05-30 20:19:04.402 - Charset 'null' not found.
+2025-05-30 20:19:04.403 - Charset 'null' not found.
+2025-05-30 20:19:04.403 - Charset 'null' not found.
+2025-05-30 20:19:04.404 - Charset 'null' not found.
+2025-05-30 20:19:04.405 - Charset 'null' not found.
+2025-05-30 20:19:04.405 - Charset 'null' not found.
+2025-05-30 20:19:04.406 - Charset 'null' not found.
+2025-05-30 20:19:04.406 - Charset 'null' not found.
+2025-05-30 20:19:04.407 - Charset 'null' not found.
+2025-05-30 20:19:04.407 - Charset 'null' not found.
+2025-05-30 20:19:04.408 - Charset 'null' not found.
+2025-05-30 20:19:04.408 - Charset 'null' not found.
+2025-05-30 20:19:04.409 - Charset 'null' not found.
+2025-05-30 20:19:04.409 - Charset 'null' not found.
+2025-05-30 20:19:04.410 - Charset 'null' not found.
+2025-05-30 20:19:04.410 - Charset 'null' not found.
+2025-05-30 20:19:04.411 - Charset 'null' not found.
+2025-05-30 20:19:04.411 - Charset 'null' not found.
+2025-05-30 20:19:04.412 - Charset 'null' not found.
+2025-05-30 20:19:04.412 - Charset 'null' not found.
+2025-05-30 20:19:04.413 - Charset 'null' not found.
+2025-05-30 20:19:04.414 - Charset 'null' not found.
+2025-05-30 20:19:04.414 - Charset 'null' not found.
+2025-05-30 20:19:04.415 - Charset 'null' not found.
+2025-05-30 20:19:04.415 - Charset 'null' not found.
+2025-05-30 20:19:04.416 - Charset 'null' not found.
+2025-05-30 20:19:04.416 - Charset 'null' not found.
+2025-05-30 20:19:04.417 - Charset 'null' not found.
+2025-05-30 20:19:04.417 - Charset 'null' not found.
+2025-05-30 20:19:04.418 - Charset 'null' not found.
+2025-05-30 20:19:04.418 - Charset 'null' not found.
+2025-05-30 20:19:04.419 - Charset 'null' not found.
+2025-05-30 20:19:04.419 - Charset 'null' not found.
+2025-05-30 20:19:04.420 - Charset 'null' not found.
+2025-05-30 20:19:04.420 - Charset 'null' not found.
+2025-05-30 20:19:04.421 - Charset 'null' not found.
+2025-05-30 20:19:04.421 - Charset 'null' not found.
+2025-05-30 20:19:04.422 - Charset 'null' not found.
+2025-05-30 20:19:04.423 - Charset 'null' not found.
+2025-05-30 20:19:04.423 - Charset 'null' not found.
+2025-05-30 20:19:04.424 - Charset 'null' not found.
+2025-05-30 20:19:04.424 - Charset 'null' not found.
+2025-05-30 20:19:04.425 - Charset 'null' not found.
+2025-05-30 20:19:04.425 - Charset 'null' not found.
+2025-05-30 20:19:04.426 - Charset 'null' not found.
+2025-05-30 20:19:04.426 - Charset 'null' not found.
+2025-05-30 20:19:04.427 - Charset 'null' not found.
+2025-05-30 20:19:04.428 - Charset 'null' not found.
+2025-05-30 20:19:04.428 - Charset 'null' not found.
+2025-05-30 20:19:04.429 - Charset 'null' not found.
+2025-05-30 20:19:04.429 - Charset 'null' not found.
+2025-05-30 20:19:04.430 - Charset 'null' not found.
+2025-05-30 20:19:04.431 - Charset 'null' not found.
+2025-05-30 20:19:04.432 - Charset 'null' not found.
+2025-05-30 20:19:04.432 - Charset 'null' not found.
+2025-05-30 20:19:04.433 - Charset 'null' not found.
+2025-05-30 20:19:04.434 - Charset 'null' not found.
+2025-05-30 20:19:04.434 - Charset 'null' not found.
+2025-05-30 20:19:04.435 - Charset 'null' not found.
+2025-05-30 20:19:04.435 - Charset 'null' not found.
+2025-05-30 20:19:04.436 - Charset 'null' not found.
+2025-05-30 20:19:04.436 - Charset 'null' not found.
+2025-05-30 20:19:04.436 - Charset 'null' not found.
+2025-05-30 20:19:04.437 - Charset 'null' not found.
+2025-05-30 20:19:04.437 - Charset 'null' not found.
+2025-05-30 20:19:04.438 - Charset 'null' not found.
+2025-05-30 20:19:04.438 - Charset 'null' not found.
+2025-05-30 20:19:04.439 - Charset 'null' not found.
+2025-05-30 20:19:04.439 - Charset 'null' not found.
+2025-05-30 20:19:04.440 - Charset 'null' not found.
+2025-05-30 20:19:04.440 - Charset 'null' not found.
+2025-05-30 20:19:04.441 - Charset 'null' not found.
+2025-05-30 20:19:04.441 - Charset 'null' not found.
+2025-05-30 20:19:04.442 - Charset 'null' not found.
+2025-05-30 20:19:04.442 - Charset 'null' not found.
+2025-05-30 20:19:04.443 - Charset 'null' not found.
+2025-05-30 20:19:04.443 - Charset 'null' not found.
+2025-05-30 20:19:04.444 - Charset 'null' not found.
+2025-05-30 20:19:04.444 - Charset 'null' not found.
+2025-05-30 20:19:04.445 - Charset 'null' not found.
+2025-05-30 20:19:04.445 - Charset 'null' not found.
+2025-05-30 20:19:04.445 - Charset 'null' not found.
+2025-05-30 20:19:04.446 - Charset 'null' not found.
+2025-05-30 20:19:04.446 - Charset 'null' not found.
+2025-05-30 20:19:04.447 - Charset 'null' not found.
+2025-05-30 20:19:04.447 - Charset 'null' not found.
+2025-05-30 20:19:04.448 - Charset 'null' not found.
+2025-05-30 20:19:04.448 - Charset 'null' not found.
+2025-05-30 20:19:04.449 - Charset 'null' not found.
+2025-05-30 20:19:04.449 - Charset 'null' not found.
+2025-05-30 20:19:04.450 - Charset 'null' not found.
+2025-05-30 20:19:04.450 - Charset 'null' not found.
+2025-05-30 20:19:04.451 - Charset 'null' not found.
+2025-05-30 20:19:04.451 - Charset 'null' not found.
+2025-05-30 20:19:04.452 - Charset 'null' not found.
+2025-05-30 20:19:04.452 - Charset 'null' not found.
+2025-05-30 20:19:04.453 - Charset 'null' not found.
+2025-05-30 20:19:04.454 - Charset 'null' not found.
+2025-05-30 20:19:04.454 - Charset 'null' not found.
+2025-05-30 20:19:04.455 - Charset 'null' not found.
+2025-05-30 20:19:04.455 - Charset 'null' not found.
+2025-05-30 20:19:04.456 - Charset 'null' not found.
+2025-05-30 20:19:04.457 - Charset 'null' not found.
+2025-05-30 20:19:04.457 - Charset 'null' not found.
+2025-05-30 20:19:04.458 - Charset 'null' not found.
+2025-05-30 20:19:04.458 - Charset 'null' not found.
+2025-05-30 20:19:04.459 - Charset 'null' not found.
+2025-05-30 20:19:04.459 - Charset 'null' not found.
+2025-05-30 20:19:04.460 - Charset 'null' not found.
+2025-05-30 20:19:04.460 - Charset 'null' not found.
+2025-05-30 20:19:04.460 - Charset 'null' not found.
+2025-05-30 20:19:04.461 - Charset 'null' not found.
+2025-05-30 20:19:04.466 - Charset 'null' not found.
+2025-05-30 20:19:04.467 - Charset 'null' not found.
+2025-05-30 20:19:04.468 - Charset 'null' not found.
+2025-05-30 20:19:04.468 - Charset 'null' not found.
+2025-05-30 20:19:04.469 - Charset 'null' not found.
+2025-05-30 20:19:04.469 - Charset 'null' not found.
+2025-05-30 20:19:04.470 - Charset 'null' not found.
+2025-05-30 20:19:04.470 - Charset 'null' not found.
+2025-05-30 20:19:04.470 - Charset 'null' not found.
+2025-05-30 20:19:04.471 - Charset 'null' not found.
+2025-05-30 20:19:04.471 - Charset 'null' not found.
+2025-05-30 20:19:04.472 - Charset 'null' not found.
+2025-05-30 20:19:04.472 - Charset 'null' not found.
+2025-05-30 20:19:04.652 - Connected (mariaDB-197237dacee-c5b44322156bc1a, MariaDB Connector/J [3.5.2])
+2025-05-30 20:19:04.667 - Execution context closed (82.112.244.132, 0)
+2025-05-30 20:19:04.667 - Disconnected (mariaDB-197237dacee-c5b44322156bc1a)
+2025-05-30 20:19:10.893 - Connect with '82.112.244.132' (mariaDB-197237d387e-5f42b1cf358fc709)
+2025-05-30 20:19:10.894 - Execution context opened (82.112.244.132; Main; 1)
+2025-05-30 20:19:11.024 - Execution context opened (82.112.244.132; Metadata; 2)
+2025-05-30 20:19:11.520 - Charset 'null' not found.
+2025-05-30 20:19:11.520 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.535 - Charset 'null' not found.
+2025-05-30 20:19:11.551 - Charset 'null' not found.
+2025-05-30 20:19:11.552 - Charset 'null' not found.
+2025-05-30 20:19:11.553 - Charset 'null' not found.
+2025-05-30 20:19:11.553 - Charset 'null' not found.
+2025-05-30 20:19:11.554 - Charset 'null' not found.
+2025-05-30 20:19:11.555 - Charset 'null' not found.
+2025-05-30 20:19:11.555 - Charset 'null' not found.
+2025-05-30 20:19:11.556 - Charset 'null' not found.
+2025-05-30 20:19:11.556 - Charset 'null' not found.
+2025-05-30 20:19:11.557 - Charset 'null' not found.
+2025-05-30 20:19:11.558 - Charset 'null' not found.
+2025-05-30 20:19:11.558 - Charset 'null' not found.
+2025-05-30 20:19:11.559 - Charset 'null' not found.
+2025-05-30 20:19:11.559 - Charset 'null' not found.
+2025-05-30 20:19:11.559 - Charset 'null' not found.
+2025-05-30 20:19:11.560 - Charset 'null' not found.
+2025-05-30 20:19:11.560 - Charset 'null' not found.
+2025-05-30 20:19:11.561 - Charset 'null' not found.
+2025-05-30 20:19:11.561 - Charset 'null' not found.
+2025-05-30 20:19:11.562 - Charset 'null' not found.
+2025-05-30 20:19:11.562 - Charset 'null' not found.
+2025-05-30 20:19:11.563 - Charset 'null' not found.
+2025-05-30 20:19:11.563 - Charset 'null' not found.
+2025-05-30 20:19:11.564 - Charset 'null' not found.
+2025-05-30 20:19:11.564 - Charset 'null' not found.
+2025-05-30 20:19:11.565 - Charset 'null' not found.
+2025-05-30 20:19:11.566 - Charset 'null' not found.
+2025-05-30 20:19:11.566 - Charset 'null' not found.
+2025-05-30 20:19:11.567 - Charset 'null' not found.
+2025-05-30 20:19:11.567 - Charset 'null' not found.
+2025-05-30 20:19:11.568 - Charset 'null' not found.
+2025-05-30 20:19:11.568 - Charset 'null' not found.
+2025-05-30 20:19:11.569 - Charset 'null' not found.
+2025-05-30 20:19:11.569 - Charset 'null' not found.
+2025-05-30 20:19:11.570 - Charset 'null' not found.
+2025-05-30 20:19:11.570 - Charset 'null' not found.
+2025-05-30 20:19:11.571 - Charset 'null' not found.
+2025-05-30 20:19:11.571 - Charset 'null' not found.
+2025-05-30 20:19:11.572 - Charset 'null' not found.
+2025-05-30 20:19:11.572 - Charset 'null' not found.
+2025-05-30 20:19:11.573 - Charset 'null' not found.
+2025-05-30 20:19:11.573 - Charset 'null' not found.
+2025-05-30 20:19:11.574 - Charset 'null' not found.
+2025-05-30 20:19:11.575 - Charset 'null' not found.
+2025-05-30 20:19:11.575 - Charset 'null' not found.
+2025-05-30 20:19:11.576 - Charset 'null' not found.
+2025-05-30 20:19:11.576 - Charset 'null' not found.
+2025-05-30 20:19:11.577 - Charset 'null' not found.
+2025-05-30 20:19:11.577 - Charset 'null' not found.
+2025-05-30 20:19:11.577 - Charset 'null' not found.
+2025-05-30 20:19:11.578 - Charset 'null' not found.
+2025-05-30 20:19:11.578 - Charset 'null' not found.
+2025-05-30 20:19:11.579 - Charset 'null' not found.
+2025-05-30 20:19:11.579 - Charset 'null' not found.
+2025-05-30 20:19:11.580 - Charset 'null' not found.
+2025-05-30 20:19:11.580 - Charset 'null' not found.
+2025-05-30 20:19:11.581 - Charset 'null' not found.
+2025-05-30 20:19:11.581 - Charset 'null' not found.
+2025-05-30 20:19:11.582 - Charset 'null' not found.
+2025-05-30 20:19:11.582 - Charset 'null' not found.
+2025-05-30 20:19:11.583 - Charset 'null' not found.
+2025-05-30 20:19:11.584 - Charset 'null' not found.
+2025-05-30 20:19:11.584 - Charset 'null' not found.
+2025-05-30 20:19:11.585 - Charset 'null' not found.
+2025-05-30 20:19:11.585 - Charset 'null' not found.
+2025-05-30 20:19:11.586 - Charset 'null' not found.
+2025-05-30 20:19:11.587 - Charset 'null' not found.
+2025-05-30 20:19:11.587 - Charset 'null' not found.
+2025-05-30 20:19:11.588 - Charset 'null' not found.
+2025-05-30 20:19:11.588 - Charset 'null' not found.
+2025-05-30 20:19:11.589 - Charset 'null' not found.
+2025-05-30 20:19:11.589 - Charset 'null' not found.
+2025-05-30 20:19:11.589 - Charset 'null' not found.
+2025-05-30 20:19:11.590 - Charset 'null' not found.
+2025-05-30 20:19:11.590 - Charset 'null' not found.
+2025-05-30 20:19:11.591 - Charset 'null' not found.
+2025-05-30 20:19:11.591 - Charset 'null' not found.
+2025-05-30 20:19:11.592 - Charset 'null' not found.
+2025-05-30 20:19:11.592 - Charset 'null' not found.
+2025-05-30 20:19:11.593 - Charset 'null' not found.
+2025-05-30 20:19:11.593 - Charset 'null' not found.
+2025-05-30 20:19:11.594 - Charset 'null' not found.
+2025-05-30 20:19:11.594 - Charset 'null' not found.
+2025-05-30 20:19:11.595 - Charset 'null' not found.
+2025-05-30 20:19:11.595 - Charset 'null' not found.
+2025-05-30 20:19:11.596 - Charset 'null' not found.
+2025-05-30 20:19:11.597 - Charset 'null' not found.
+2025-05-30 20:19:11.597 - Charset 'null' not found.
+2025-05-30 20:19:11.598 - Charset 'null' not found.
+2025-05-30 20:19:11.598 - Charset 'null' not found.
+2025-05-30 20:19:11.599 - Charset 'null' not found.
+2025-05-30 20:19:11.599 - Charset 'null' not found.
+2025-05-30 20:19:11.600 - Charset 'null' not found.
+2025-05-30 20:19:11.600 - Charset 'null' not found.
+2025-05-30 20:19:11.601 - Charset 'null' not found.
+2025-05-30 20:19:11.601 - Charset 'null' not found.
+2025-05-30 20:19:11.602 - Charset 'null' not found.
+2025-05-30 20:19:11.602 - Charset 'null' not found.
+2025-05-30 20:19:11.603 - Charset 'null' not found.
+2025-05-30 20:19:11.603 - Charset 'null' not found.
+2025-05-30 20:19:11.603 - Charset 'null' not found.
+2025-05-30 20:19:11.604 - Charset 'null' not found.
+2025-05-30 20:19:11.604 - Charset 'null' not found.
+2025-05-30 20:19:11.605 - Charset 'null' not found.
+2025-05-30 20:19:11.605 - Charset 'null' not found.
+2025-05-30 20:19:11.606 - Charset 'null' not found.
+2025-05-30 20:19:11.606 - Charset 'null' not found.
+2025-05-30 20:19:11.607 - Charset 'null' not found.
+2025-05-30 20:19:11.607 - Charset 'null' not found.
+2025-05-30 20:19:11.608 - Charset 'null' not found.
+2025-05-30 20:19:11.608 - Charset 'null' not found.
+2025-05-30 20:19:11.609 - Charset 'null' not found.
+2025-05-30 20:19:11.609 - Charset 'null' not found.
+2025-05-30 20:19:11.610 - Charset 'null' not found.
+2025-05-30 20:19:11.611 - Charset 'null' not found.
+2025-05-30 20:19:11.611 - Charset 'null' not found.
+2025-05-30 20:19:11.612 - Charset 'null' not found.
+2025-05-30 20:19:11.612 - Charset 'null' not found.
+2025-05-30 20:19:11.612 - Charset 'null' not found.
+2025-05-30 20:19:11.613 - Charset 'null' not found.
+2025-05-30 20:19:11.613 - Charset 'null' not found.
+2025-05-30 20:19:11.614 - Charset 'null' not found.
+2025-05-30 20:19:11.614 - Charset 'null' not found.
+2025-05-30 20:19:11.615 - Charset 'null' not found.
+2025-05-30 20:19:11.615 - Charset 'null' not found.
+2025-05-30 20:19:11.616 - Charset 'null' not found.
+2025-05-30 20:19:11.616 - Charset 'null' not found.
+2025-05-30 20:19:11.617 - Charset 'null' not found.
+2025-05-30 20:19:11.617 - Charset 'null' not found.
+2025-05-30 20:19:11.618 - Charset 'null' not found.
+2025-05-30 20:19:11.618 - Charset 'null' not found.
+2025-05-30 20:19:11.619 - Charset 'null' not found.
+2025-05-30 20:19:11.620 - Charset 'null' not found.
+2025-05-30 20:19:11.620 - Charset 'null' not found.
+2025-05-30 20:19:11.621 - Charset 'null' not found.
+2025-05-30 20:19:11.621 - Charset 'null' not found.
+2025-05-30 20:19:11.623 - Charset 'null' not found.
+2025-05-30 20:19:11.623 - Charset 'null' not found.
+2025-05-30 20:19:11.624 - Charset 'null' not found.
+2025-05-30 20:19:11.625 - Charset 'null' not found.
+2025-05-30 20:19:11.626 - Charset 'null' not found.
+2025-05-30 20:19:11.626 - Charset 'null' not found.
+2025-05-30 20:19:11.627 - Charset 'null' not found.
+2025-05-30 20:19:11.627 - Charset 'null' not found.
+2025-05-30 20:19:11.628 - Charset 'null' not found.
+2025-05-30 20:19:11.628 - Charset 'null' not found.
+2025-05-30 20:19:11.629 - Charset 'null' not found.
+2025-05-30 20:19:11.629 - Charset 'null' not found.
+2025-05-30 20:19:11.630 - Charset 'null' not found.
+2025-05-30 20:19:11.630 - Charset 'null' not found.
+2025-05-30 20:19:11.631 - Charset 'null' not found.
+2025-05-30 20:19:11.631 - Charset 'null' not found.
+2025-05-30 20:19:11.632 - Charset 'null' not found.
+2025-05-30 20:19:11.725 - Connected (mariaDB-197237d387e-5f42b1cf358fc709, MariaDB Connector/J [3.5.2])
+> Start Data Transfer UI [org.jkiss.dbeaver.data.transfer.ui 1.0.139.202505181758]
+2025-05-30 20:19:14.506 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2025-05-30 20:19:14.588 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2025-05-30 20:19:37.019 - Execution context closed (miBD-hostinger, 1)
+2025-05-30 20:19:37.030 - Execution context closed (miBD-hostinger, 2)
+2025-05-30 20:19:37.030 - Disconnected (mariaDB-197237d387e-5f42b1cf358fc709)
+2025-05-30 20:19:37.045 - Connect with 'miBD-hostinger' (mariaDB-197237d387e-5f42b1cf358fc709)
+2025-05-30 20:19:37.045 - Execution context opened (miBD-hostinger; Main; 3)
+2025-05-30 20:19:37.171 - Execution context opened (miBD-hostinger; Metadata; 4)
+2025-05-30 20:19:37.399 - Charset 'null' not found.
+2025-05-30 20:19:37.400 - Charset 'null' not found.
+2025-05-30 20:19:37.401 - Charset 'null' not found.
+2025-05-30 20:19:37.402 - Charset 'null' not found.
+2025-05-30 20:19:37.403 - Charset 'null' not found.
+2025-05-30 20:19:37.404 - Charset 'null' not found.
+2025-05-30 20:19:37.404 - Charset 'null' not found.
+2025-05-30 20:19:37.405 - Charset 'null' not found.
+2025-05-30 20:19:37.406 - Charset 'null' not found.
+2025-05-30 20:19:37.406 - Charset 'null' not found.
+2025-05-30 20:19:37.407 - Charset 'null' not found.
+2025-05-30 20:19:37.408 - Charset 'null' not found.
+2025-05-30 20:19:37.409 - Charset 'null' not found.
+2025-05-30 20:19:37.409 - Charset 'null' not found.
+2025-05-30 20:19:37.410 - Charset 'null' not found.
+2025-05-30 20:19:37.411 - Charset 'null' not found.
+2025-05-30 20:19:37.412 - Charset 'null' not found.
+2025-05-30 20:19:37.412 - Charset 'null' not found.
+2025-05-30 20:19:37.412 - Charset 'null' not found.
+2025-05-30 20:19:37.413 - Charset 'null' not found.
+2025-05-30 20:19:37.413 - Charset 'null' not found.
+2025-05-30 20:19:37.415 - Charset 'null' not found.
+2025-05-30 20:19:37.415 - Charset 'null' not found.
+2025-05-30 20:19:37.416 - Charset 'null' not found.
+2025-05-30 20:19:37.416 - Charset 'null' not found.
+2025-05-30 20:19:37.416 - Charset 'null' not found.
+2025-05-30 20:19:37.416 - Charset 'null' not found.
+2025-05-30 20:19:37.417 - Charset 'null' not found.
+2025-05-30 20:19:37.417 - Charset 'null' not found.
+2025-05-30 20:19:37.418 - Charset 'null' not found.
+2025-05-30 20:19:37.420 - Charset 'null' not found.
+2025-05-30 20:19:37.420 - Charset 'null' not found.
+2025-05-30 20:19:37.420 - Charset 'null' not found.
+2025-05-30 20:19:37.421 - Charset 'null' not found.
+2025-05-30 20:19:37.421 - Charset 'null' not found.
+2025-05-30 20:19:37.421 - Charset 'null' not found.
+2025-05-30 20:19:37.421 - Charset 'null' not found.
+2025-05-30 20:19:37.422 - Charset 'null' not found.
+2025-05-30 20:19:37.423 - Charset 'null' not found.
+2025-05-30 20:19:37.423 - Charset 'null' not found.
+2025-05-30 20:19:37.424 - Charset 'null' not found.
+2025-05-30 20:19:37.425 - Charset 'null' not found.
+2025-05-30 20:19:37.425 - Charset 'null' not found.
+2025-05-30 20:19:37.426 - Charset 'null' not found.
+2025-05-30 20:19:37.426 - Charset 'null' not found.
+2025-05-30 20:19:37.427 - Charset 'null' not found.
+2025-05-30 20:19:37.427 - Charset 'null' not found.
+2025-05-30 20:19:37.428 - Charset 'null' not found.
+2025-05-30 20:19:37.428 - Charset 'null' not found.
+2025-05-30 20:19:37.428 - Charset 'null' not found.
+2025-05-30 20:19:37.429 - Charset 'null' not found.
+2025-05-30 20:19:37.429 - Charset 'null' not found.
+2025-05-30 20:19:37.429 - Charset 'null' not found.
+2025-05-30 20:19:37.430 - Charset 'null' not found.
+2025-05-30 20:19:37.430 - Charset 'null' not found.
+2025-05-30 20:19:37.431 - Charset 'null' not found.
+2025-05-30 20:19:37.431 - Charset 'null' not found.
+2025-05-30 20:19:37.431 - Charset 'null' not found.
+2025-05-30 20:19:37.432 - Charset 'null' not found.
+2025-05-30 20:19:37.432 - Charset 'null' not found.
+2025-05-30 20:19:37.433 - Charset 'null' not found.
+2025-05-30 20:19:37.433 - Charset 'null' not found.
+2025-05-30 20:19:37.434 - Charset 'null' not found.
+2025-05-30 20:19:37.434 - Charset 'null' not found.
+2025-05-30 20:19:37.435 - Charset 'null' not found.
+2025-05-30 20:19:37.435 - Charset 'null' not found.
+2025-05-30 20:19:37.435 - Charset 'null' not found.
+2025-05-30 20:19:37.436 - Charset 'null' not found.
+2025-05-30 20:19:37.436 - Charset 'null' not found.
+2025-05-30 20:19:37.437 - Charset 'null' not found.
+2025-05-30 20:19:37.437 - Charset 'null' not found.
+2025-05-30 20:19:37.438 - Charset 'null' not found.
+2025-05-30 20:19:37.438 - Charset 'null' not found.
+2025-05-30 20:19:37.439 - Charset 'null' not found.
+2025-05-30 20:19:37.439 - Charset 'null' not found.
+2025-05-30 20:19:37.439 - Charset 'null' not found.
+2025-05-30 20:19:37.440 - Charset 'null' not found.
+2025-05-30 20:19:37.440 - Charset 'null' not found.
+2025-05-30 20:19:37.440 - Charset 'null' not found.
+2025-05-30 20:19:37.441 - Charset 'null' not found.
+2025-05-30 20:19:37.441 - Charset 'null' not found.
+2025-05-30 20:19:37.441 - Charset 'null' not found.
+2025-05-30 20:19:37.442 - Charset 'null' not found.
+2025-05-30 20:19:37.442 - Charset 'null' not found.
+2025-05-30 20:19:37.442 - Charset 'null' not found.
+2025-05-30 20:19:37.443 - Charset 'null' not found.
+2025-05-30 20:19:37.443 - Charset 'null' not found.
+2025-05-30 20:19:37.444 - Charset 'null' not found.
+2025-05-30 20:19:37.444 - Charset 'null' not found.
+2025-05-30 20:19:37.445 - Charset 'null' not found.
+2025-05-30 20:19:37.445 - Charset 'null' not found.
+2025-05-30 20:19:37.446 - Charset 'null' not found.
+2025-05-30 20:19:37.446 - Charset 'null' not found.
+2025-05-30 20:19:37.446 - Charset 'null' not found.
+2025-05-30 20:19:37.447 - Charset 'null' not found.
+2025-05-30 20:19:37.447 - Charset 'null' not found.
+2025-05-30 20:19:37.447 - Charset 'null' not found.
+2025-05-30 20:19:37.448 - Charset 'null' not found.
+2025-05-30 20:19:37.448 - Charset 'null' not found.
+2025-05-30 20:19:37.449 - Charset 'null' not found.
+2025-05-30 20:19:37.449 - Charset 'null' not found.
+2025-05-30 20:19:37.450 - Charset 'null' not found.
+2025-05-30 20:19:37.450 - Charset 'null' not found.
+2025-05-30 20:19:37.451 - Charset 'null' not found.
+2025-05-30 20:19:37.451 - Charset 'null' not found.
+2025-05-30 20:19:37.452 - Charset 'null' not found.
+2025-05-30 20:19:37.452 - Charset 'null' not found.
+2025-05-30 20:19:37.452 - Charset 'null' not found.
+2025-05-30 20:19:37.453 - Charset 'null' not found.
+2025-05-30 20:19:37.453 - Charset 'null' not found.
+2025-05-30 20:19:37.453 - Charset 'null' not found.
+2025-05-30 20:19:37.454 - Charset 'null' not found.
+2025-05-30 20:19:37.454 - Charset 'null' not found.
+2025-05-30 20:19:37.454 - Charset 'null' not found.
+2025-05-30 20:19:37.455 - Charset 'null' not found.
+2025-05-30 20:19:37.456 - Charset 'null' not found.
+2025-05-30 20:19:37.456 - Charset 'null' not found.
+2025-05-30 20:19:37.457 - Charset 'null' not found.
+2025-05-30 20:19:37.457 - Charset 'null' not found.
+2025-05-30 20:19:37.458 - Charset 'null' not found.
+2025-05-30 20:19:37.458 - Charset 'null' not found.
+2025-05-30 20:19:37.459 - Charset 'null' not found.
+2025-05-30 20:19:37.459 - Charset 'null' not found.
+2025-05-30 20:19:37.459 - Charset 'null' not found.
+2025-05-30 20:19:37.460 - Charset 'null' not found.
+2025-05-30 20:19:37.460 - Charset 'null' not found.
+2025-05-30 20:19:37.460 - Charset 'null' not found.
+2025-05-30 20:19:37.461 - Charset 'null' not found.
+2025-05-30 20:19:37.461 - Charset 'null' not found.
+2025-05-30 20:19:37.461 - Charset 'null' not found.
+2025-05-30 20:19:37.462 - Charset 'null' not found.
+2025-05-30 20:19:37.462 - Charset 'null' not found.
+2025-05-30 20:19:37.463 - Charset 'null' not found.
+2025-05-30 20:19:37.463 - Charset 'null' not found.
+2025-05-30 20:19:37.463 - Charset 'null' not found.
+2025-05-30 20:19:37.464 - Charset 'null' not found.
+2025-05-30 20:19:37.464 - Charset 'null' not found.
+2025-05-30 20:19:37.465 - Charset 'null' not found.
+2025-05-30 20:19:37.465 - Charset 'null' not found.
+2025-05-30 20:19:37.465 - Charset 'null' not found.
+2025-05-30 20:19:37.466 - Charset 'null' not found.
+2025-05-30 20:19:37.466 - Charset 'null' not found.
+2025-05-30 20:19:37.467 - Charset 'null' not found.
+2025-05-30 20:19:37.467 - Charset 'null' not found.
+2025-05-30 20:19:37.468 - Charset 'null' not found.
+2025-05-30 20:19:37.468 - Charset 'null' not found.
+2025-05-30 20:19:37.469 - Charset 'null' not found.
+2025-05-30 20:19:37.469 - Charset 'null' not found.
+2025-05-30 20:19:37.470 - Charset 'null' not found.
+2025-05-30 20:19:37.470 - Charset 'null' not found.
+2025-05-30 20:19:37.471 - Charset 'null' not found.
+2025-05-30 20:19:37.471 - Charset 'null' not found.
+2025-05-30 20:19:37.472 - Charset 'null' not found.
+2025-05-30 20:19:37.472 - Charset 'null' not found.
+2025-05-30 20:19:37.473 - Charset 'null' not found.
+2025-05-30 20:19:37.473 - Charset 'null' not found.
+2025-05-30 20:19:37.474 - Charset 'null' not found.
+2025-05-30 20:19:37.474 - Charset 'null' not found.
+2025-05-30 20:19:37.475 - Charset 'null' not found.
+2025-05-30 20:19:37.475 - Charset 'null' not found.
+2025-05-30 20:19:37.476 - Charset 'null' not found.
+2025-05-30 20:19:37.476 - Charset 'null' not found.
+2025-05-30 20:19:37.477 - Charset 'null' not found.
+2025-05-30 20:19:37.477 - Charset 'null' not found.
+2025-05-30 20:19:37.477 - Charset 'null' not found.
+2025-05-30 20:19:37.480 - Charset 'null' not found.
+2025-05-30 20:19:37.481 - Charset 'null' not found.
+2025-05-30 20:19:37.482 - Charset 'null' not found.
+2025-05-30 20:19:37.482 - Charset 'null' not found.
+2025-05-30 20:19:37.483 - Charset 'null' not found.
+2025-05-30 20:19:37.484 - Charset 'null' not found.
+2025-05-30 20:19:37.484 - Charset 'null' not found.
+2025-05-30 20:19:37.485 - Charset 'null' not found.
+2025-05-30 20:19:37.485 - Charset 'null' not found.
+2025-05-30 20:19:37.486 - Charset 'null' not found.
+2025-05-30 20:19:37.487 - Charset 'null' not found.
+2025-05-30 20:19:37.488 - Charset 'null' not found.
+2025-05-30 20:19:37.489 - Charset 'null' not found.
+2025-05-30 20:19:37.490 - Charset 'null' not found.
+2025-05-30 20:19:37.492 - Charset 'null' not found.
+2025-05-30 20:19:37.493 - Charset 'null' not found.
+2025-05-30 20:19:37.494 - Charset 'null' not found.
+2025-05-30 20:19:37.495 - Charset 'null' not found.
+2025-05-30 20:19:37.495 - Charset 'null' not found.
+2025-05-30 20:19:37.588 - Connected (mariaDB-197237d387e-5f42b1cf358fc709, MariaDB Connector/J [3.5.2])
+Warning: NLS unused message: FindReplace_RegExCheckbox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WrapCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Options in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceSelectionButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectedRangeRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_SelectAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_GlobalRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_WholeWordCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceFindButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_BackwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CloseButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Replace_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_CaseCheckBox_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Status_replacements_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_title in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Direction in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ReplaceAllButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Scope in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_Find_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_ForwardRadioButton_label in: org.eclipse.ui.texteditor.EditorMessages
+Warning: NLS unused message: FindReplace_FindNextButton_label in: org.eclipse.ui.texteditor.EditorMessages
+> Start DBeaver SQL Terminal [org.jkiss.dbeaver.ui.editors.sql.terminal 1.0.131.202505181758]
+> Start Núcleo de Suporte a Comparação [org.eclipse.compare.core 3.8.700.v20250120-0641]
+> Start Console [org.eclipse.ui.console 3.14.200.v20240918-1457]
+> Start Depurar Core [org.eclipse.debug.core 3.22.100.v20250129-1642]
+2025-05-30 20:22:34.586 - Execution context opened (miBD-hostinger; SQLEditor <Script.sql>; 5)
+> Start DBeaver Tasks - Native Tools UI [org.jkiss.dbeaver.tasks.native.ui 1.0.133.202505181758]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.133.202505181758]
+> Start DBeaver SQL Language Semantic Model [org.jkiss.dbeaver.model.lsm 1.0.50.202505181758]
+> Start DBeaver Data Transfer [org.jkiss.dbeaver.data.transfer 2.0.139.202505181758]
+2025-05-30 20:28:36.194 - No unique key defined
+org.jkiss.dbeaver.model.exec.DBCException: No unique key defined
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetPersister.checkEntityIdentifiers(ResultSetPersister.java:648)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer.createDataPersister(ResultSetViewer.java:4585)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer.saveChanges(ResultSetViewer.java:4497)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer.applyChanges(ResultSetViewer.java:4485)
+	at org.jkiss.dbeaver.ui.controls.resultset.handler.ResultSetHandlerMain.execute(ResultSetHandlerMain.java:327)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:277)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:98)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:299)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:233)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:204)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:444)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.handleWidgetSelection(AbstractContributionItem.java:455)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.lambda$2(AbstractContributionItem.java:477)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4321)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1208)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4119)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3707)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+2025-05-30 20:28:58.350 - Execution context opened (miBD-hostinger; SQLEditor <Script-1.sql>; 6)
+[ WARN] (DBeaver: Ler dados [INSERT INTO jogadores (nome, idade, time_futebol) VALUES
+('Lionel Messi', 36, 'Inter Miami'),
+('Cristiano Ronaldo', 39, 'Al-Nassr'),
+('Neymar Jr', 32, 'Al-Hilal'),
+('Kylian Mbappé', 25, 'Paris Saint-Germain'),
+('Karim Benzema', 36, 'Al-Ittihad'),
+('Mohamed Salah', 31, 'Liverpool'),
+('Kevin De Bruyne', 32, 'Manchester City'),
+('Erling Haaland', 23, 'Manchester City'),
+('Robert Lewandowski', 35, 'Barcelona'),
+('Luka Modrić', 38, 'Real Madrid'),
+('Thibaut Courtois', 31, 'Real Madrid'),
+('Virgil van Dijk', 32, 'Liverpool'),
+('Harry Kane', 30, 'Bayern Munich'),
+('Toni Kroos', 34, 'Real Madrid'),
+('Manuel Neuer', 38, 'Bayern Munich'),
+('Sergio Agüero', 35, 'Retirado (ex-Manchester City)'),
+('Luis Suárez', 37, 'Grêmio'),
+('Gareth Bale', 34, 'Retirado (ex-Real Madrid)'),
+('Iker Casillas', 42, 'Retirado (ex-Real Madrid)'),
+('Xavi Hernández', 44, 'Retirado (ex-Barcelona)')]) Error: 1046-3D000: No database selected
+2025-05-30 20:29:08.352 - Erro SQL [1046] [3D000]: (conn=150) No database selected
+org.jkiss.dbeaver.model.sql.DBSQLException: Erro SQL [1046] [3D000]: (conn=150) No database selected
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:572)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLTransientConnectionException: (conn=150) No database selected
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:309)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 11 more
+2025-05-30 20:29:44.444 - Execution context closed (miBD-hostinger, 6)
+2025-05-30 20:29:56.425 - Execution context opened (miBD-hostinger; SQLEditor <Script-2.sql>; 7)
+[ WARN] (DBeaver: Ler dados [select * from jogadores order by nome DESC:]) Error: 1064-42000: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':' at line 1
+2025-05-30 20:36:07.060 - Erro SQL [1064] [42000]: (conn=149) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':' at line 1
+
+Posição do erro:
+org.jkiss.dbeaver.model.sql.DBSQLException: Erro SQL [1064] [42000]: (conn=149) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':' at line 1
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: (conn=149) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':' at line 1
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 12 more
+2025-05-30 20:51:22.486 - Execution context opened (miBD-hostinger; SQLEditor <Script.sql>; 8)
+2025-05-30 20:51:32.344 - Duplicate object name 'GEOMETRY' in cache JDBCBasicDataTypeCache. Last value: `GEOMETRY`
+2025-05-30 20:51:32.345 - Duplicate object name 'POINT' in cache JDBCBasicDataTypeCache. Last value: `POINT`
+2025-05-30 20:51:32.345 - Duplicate object name 'LINESTRING' in cache JDBCBasicDataTypeCache. Last value: LINESTRING
+2025-05-30 20:51:32.345 - Duplicate object name 'POLYGON' in cache JDBCBasicDataTypeCache. Last value: POLYGON
+2025-05-30 20:51:32.345 - Duplicate object name 'MULTIPOINT' in cache JDBCBasicDataTypeCache. Last value: MULTIPOINT
+2025-05-30 20:51:32.345 - Duplicate object name 'MULTILINESTRING' in cache JDBCBasicDataTypeCache. Last value: MULTILINESTRING
+2025-05-30 20:51:32.345 - Duplicate object name 'MULTIPOLYGON' in cache JDBCBasicDataTypeCache. Last value: MULTIPOLYGON
+2025-05-30 20:51:32.345 - Duplicate object name 'GEOMETRYCOLLECTION' in cache JDBCBasicDataTypeCache. Last value: GEOMETRYCOLLECTION
+2025-05-30 20:51:32.419 - Charset 'null' not found.
+2025-05-30 20:51:32.420 - Charset 'null' not found.
+2025-05-30 20:51:32.421 - Charset 'null' not found.
+2025-05-30 20:51:32.421 - Charset 'null' not found.
+2025-05-30 20:51:32.421 - Charset 'null' not found.
+2025-05-30 20:51:32.422 - Charset 'null' not found.
+2025-05-30 20:51:32.422 - Charset 'null' not found.
+2025-05-30 20:51:32.423 - Charset 'null' not found.
+2025-05-30 20:51:32.423 - Charset 'null' not found.
+2025-05-30 20:51:32.423 - Charset 'null' not found.
+2025-05-30 20:51:32.424 - Charset 'null' not found.
+2025-05-30 20:51:32.424 - Charset 'null' not found.
+2025-05-30 20:51:32.424 - Charset 'null' not found.
+2025-05-30 20:51:32.425 - Charset 'null' not found.
+2025-05-30 20:51:32.425 - Charset 'null' not found.
+2025-05-30 20:51:32.425 - Charset 'null' not found.
+2025-05-30 20:51:32.426 - Charset 'null' not found.
+2025-05-30 20:51:32.426 - Charset 'null' not found.
+2025-05-30 20:51:32.427 - Charset 'null' not found.
+2025-05-30 20:51:32.427 - Charset 'null' not found.
+2025-05-30 20:51:32.427 - Charset 'null' not found.
+2025-05-30 20:51:32.428 - Charset 'null' not found.
+2025-05-30 20:51:32.428 - Charset 'null' not found.
+2025-05-30 20:51:32.429 - Charset 'null' not found.
+2025-05-30 20:51:32.429 - Charset 'null' not found.
+2025-05-30 20:51:32.429 - Charset 'null' not found.
+2025-05-30 20:51:32.430 - Charset 'null' not found.
+2025-05-30 20:51:32.430 - Charset 'null' not found.
+2025-05-30 20:51:32.430 - Charset 'null' not found.
+2025-05-30 20:51:32.431 - Charset 'null' not found.
+2025-05-30 20:51:32.431 - Charset 'null' not found.
+2025-05-30 20:51:32.431 - Charset 'null' not found.
+2025-05-30 20:51:32.432 - Charset 'null' not found.
+2025-05-30 20:51:32.432 - Charset 'null' not found.
+2025-05-30 20:51:32.433 - Charset 'null' not found.
+2025-05-30 20:51:32.433 - Charset 'null' not found.
+2025-05-30 20:51:32.434 - Charset 'null' not found.
+2025-05-30 20:51:32.434 - Charset 'null' not found.
+2025-05-30 20:51:32.435 - Charset 'null' not found.
+2025-05-30 20:51:32.436 - Charset 'null' not found.
+2025-05-30 20:51:32.436 - Charset 'null' not found.
+2025-05-30 20:51:32.436 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.437 - Charset 'null' not found.
+2025-05-30 20:51:32.453 - Charset 'null' not found.
+2025-05-30 20:51:32.453 - Charset 'null' not found.
+2025-05-30 20:51:32.454 - Charset 'null' not found.
+2025-05-30 20:51:32.455 - Charset 'null' not found.
+2025-05-30 20:51:32.456 - Charset 'null' not found.
+2025-05-30 20:51:32.457 - Charset 'null' not found.
+2025-05-30 20:51:32.458 - Charset 'null' not found.
+2025-05-30 20:51:32.458 - Charset 'null' not found.
+2025-05-30 20:51:32.459 - Charset 'null' not found.
+2025-05-30 20:51:32.460 - Charset 'null' not found.
+2025-05-30 20:51:32.460 - Charset 'null' not found.
+2025-05-30 20:51:32.461 - Charset 'null' not found.
+2025-05-30 20:51:32.462 - Charset 'null' not found.
+2025-05-30 20:51:32.462 - Charset 'null' not found.
+2025-05-30 20:51:32.463 - Charset 'null' not found.
+2025-05-30 20:51:32.463 - Charset 'null' not found.
+2025-05-30 20:51:32.464 - Charset 'null' not found.
+2025-05-30 20:51:32.464 - Charset 'null' not found.
+2025-05-30 20:51:32.465 - Charset 'null' not found.
+2025-05-30 20:51:32.465 - Charset 'null' not found.
+2025-05-30 20:51:32.465 - Charset 'null' not found.
+2025-05-30 20:51:32.466 - Charset 'null' not found.
+2025-05-30 20:51:32.466 - Charset 'null' not found.
+2025-05-30 20:51:32.467 - Charset 'null' not found.
+2025-05-30 20:51:32.467 - Charset 'null' not found.
+2025-05-30 20:51:32.468 - Charset 'null' not found.
+2025-05-30 20:51:32.468 - Charset 'null' not found.
+2025-05-30 20:51:32.469 - Charset 'null' not found.
+2025-05-30 20:51:32.469 - Charset 'null' not found.
+2025-05-30 20:51:32.470 - Charset 'null' not found.
+2025-05-30 20:51:32.470 - Charset 'null' not found.
+2025-05-30 20:51:32.471 - Charset 'null' not found.
+2025-05-30 20:51:32.471 - Charset 'null' not found.
+2025-05-30 20:51:32.472 - Charset 'null' not found.
+2025-05-30 20:51:32.472 - Charset 'null' not found.
+2025-05-30 20:51:32.473 - Charset 'null' not found.
+2025-05-30 20:51:32.473 - Charset 'null' not found.
+2025-05-30 20:51:32.474 - Charset 'null' not found.
+2025-05-30 20:51:32.474 - Charset 'null' not found.
+2025-05-30 20:51:32.475 - Charset 'null' not found.
+2025-05-30 20:51:32.475 - Charset 'null' not found.
+2025-05-30 20:51:32.476 - Charset 'null' not found.
+2025-05-30 20:51:32.476 - Charset 'null' not found.
+2025-05-30 20:51:32.477 - Charset 'null' not found.
+2025-05-30 20:51:32.478 - Charset 'null' not found.
+2025-05-30 20:51:32.478 - Charset 'null' not found.
+2025-05-30 20:51:32.479 - Charset 'null' not found.
+2025-05-30 20:51:32.479 - Charset 'null' not found.
+2025-05-30 20:51:32.480 - Charset 'null' not found.
+2025-05-30 20:51:32.480 - Charset 'null' not found.
+2025-05-30 20:51:32.481 - Charset 'null' not found.
+2025-05-30 20:51:32.481 - Charset 'null' not found.
+2025-05-30 20:51:32.482 - Charset 'null' not found.
+2025-05-30 20:51:32.482 - Charset 'null' not found.
+2025-05-30 20:51:32.483 - Charset 'null' not found.
+2025-05-30 20:51:32.483 - Charset 'null' not found.
+2025-05-30 20:51:32.483 - Charset 'null' not found.
+2025-05-30 20:51:32.484 - Charset 'null' not found.
+2025-05-30 20:51:32.484 - Charset 'null' not found.
+2025-05-30 20:51:32.484 - Charset 'null' not found.
+2025-05-30 20:51:32.485 - Charset 'null' not found.
+2025-05-30 20:51:32.485 - Charset 'null' not found.
+2025-05-30 20:51:32.486 - Charset 'null' not found.
+2025-05-30 20:51:32.486 - Charset 'null' not found.
+2025-05-30 20:51:32.487 - Charset 'null' not found.
+2025-05-30 20:51:32.487 - Charset 'null' not found.
+2025-05-30 20:51:32.487 - Charset 'null' not found.
+2025-05-30 20:51:32.488 - Charset 'null' not found.
+2025-05-30 20:51:32.488 - Charset 'null' not found.
+2025-05-30 20:51:32.489 - Charset 'null' not found.
+2025-05-30 20:51:32.489 - Charset 'null' not found.
+2025-05-30 20:51:32.489 - Charset 'null' not found.
+2025-05-30 20:51:32.490 - Charset 'null' not found.
+2025-05-30 20:51:32.491 - Charset 'null' not found.
+2025-05-30 20:51:32.491 - Charset 'null' not found.
+2025-05-30 20:51:32.492 - Charset 'null' not found.
+2025-05-30 20:51:32.492 - Charset 'null' not found.
+2025-05-30 20:51:32.492 - Charset 'null' not found.
+2025-05-30 20:51:32.493 - Charset 'null' not found.
+2025-05-30 20:51:32.493 - Charset 'null' not found.
+2025-05-30 20:51:32.494 - Charset 'null' not found.
+2025-05-30 20:51:32.494 - Charset 'null' not found.
+2025-05-30 20:51:32.494 - Charset 'null' not found.
+2025-05-30 20:51:32.495 - Charset 'null' not found.
+2025-05-30 20:51:32.495 - Charset 'null' not found.
+2025-05-30 20:51:32.496 - Charset 'null' not found.
+2025-05-30 20:51:32.496 - Charset 'null' not found.
+2025-05-30 20:51:32.496 - Charset 'null' not found.
+2025-05-30 20:51:32.497 - Charset 'null' not found.
+2025-05-30 20:51:32.497 - Charset 'null' not found.
+2025-05-30 20:51:32.497 - Charset 'null' not found.
+2025-05-30 20:51:32.498 - Charset 'null' not found.
+2025-05-30 20:51:32.498 - Charset 'null' not found.
+2025-05-30 20:51:32.499 - Charset 'null' not found.
+2025-05-30 20:51:32.499 - Charset 'null' not found.
+2025-05-30 20:51:32.499 - Charset 'null' not found.
+2025-05-30 20:51:32.500 - Charset 'null' not found.
+2025-05-30 20:51:32.500 - Charset 'null' not found.
+2025-05-30 20:51:32.501 - Charset 'null' not found.
+2025-05-30 20:51:32.501 - Charset 'null' not found.
+2025-05-30 20:51:32.502 - Charset 'null' not found.
+2025-05-30 20:51:32.502 - Charset 'null' not found.
+2025-05-30 20:51:32.503 - Charset 'null' not found.
+2025-05-30 20:51:32.503 - Charset 'null' not found.
+2025-05-30 20:51:32.504 - Charset 'null' not found.
+2025-05-30 20:51:32.504 - Charset 'null' not found.
+2025-05-30 20:51:53.276 - Execution context opened (miBD-hostinger; SQLEditor <Script.sql>; 9)
+2025-05-30 20:52:19.335 - Duplicate object name 'GEOMETRY' in cache JDBCBasicDataTypeCache. Last value: `GEOMETRY`
+2025-05-30 20:52:19.336 - Duplicate object name 'POINT' in cache JDBCBasicDataTypeCache. Last value: `POINT`
+2025-05-30 20:52:19.336 - Duplicate object name 'LINESTRING' in cache JDBCBasicDataTypeCache. Last value: LINESTRING
+2025-05-30 20:52:19.336 - Duplicate object name 'POLYGON' in cache JDBCBasicDataTypeCache. Last value: POLYGON
+2025-05-30 20:52:19.336 - Duplicate object name 'MULTIPOINT' in cache JDBCBasicDataTypeCache. Last value: MULTIPOINT
+2025-05-30 20:52:19.337 - Duplicate object name 'MULTILINESTRING' in cache JDBCBasicDataTypeCache. Last value: MULTILINESTRING
+2025-05-30 20:52:19.337 - Duplicate object name 'MULTIPOLYGON' in cache JDBCBasicDataTypeCache. Last value: MULTIPOLYGON
+2025-05-30 20:52:19.337 - Duplicate object name 'GEOMETRYCOLLECTION' in cache JDBCBasicDataTypeCache. Last value: GEOMETRYCOLLECTION
+2025-05-30 20:52:19.414 - Charset 'null' not found.
+2025-05-30 20:52:19.415 - Charset 'null' not found.
+2025-05-30 20:52:19.416 - Charset 'null' not found.
+2025-05-30 20:52:19.417 - Charset 'null' not found.
+2025-05-30 20:52:19.417 - Charset 'null' not found.
+2025-05-30 20:52:19.418 - Charset 'null' not found.
+2025-05-30 20:52:19.418 - Charset 'null' not found.
+2025-05-30 20:52:19.419 - Charset 'null' not found.
+2025-05-30 20:52:19.419 - Charset 'null' not found.
+2025-05-30 20:52:19.420 - Charset 'null' not found.
+2025-05-30 20:52:19.420 - Charset 'null' not found.
+2025-05-30 20:52:19.421 - Charset 'null' not found.
+2025-05-30 20:52:19.421 - Charset 'null' not found.
+2025-05-30 20:52:19.422 - Charset 'null' not found.
+2025-05-30 20:52:19.422 - Charset 'null' not found.
+2025-05-30 20:52:19.423 - Charset 'null' not found.
+2025-05-30 20:52:19.423 - Charset 'null' not found.
+2025-05-30 20:52:19.423 - Charset 'null' not found.
+2025-05-30 20:52:19.424 - Charset 'null' not found.
+2025-05-30 20:52:19.424 - Charset 'null' not found.
+2025-05-30 20:52:19.425 - Charset 'null' not found.
+2025-05-30 20:52:19.425 - Charset 'null' not found.
+2025-05-30 20:52:19.425 - Charset 'null' not found.
+2025-05-30 20:52:19.426 - Charset 'null' not found.
+2025-05-30 20:52:19.426 - Charset 'null' not found.
+2025-05-30 20:52:19.427 - Charset 'null' not found.
+2025-05-30 20:52:19.427 - Charset 'null' not found.
+2025-05-30 20:52:19.428 - Charset 'null' not found.
+2025-05-30 20:52:19.429 - Charset 'null' not found.
+2025-05-30 20:52:19.429 - Charset 'null' not found.
+2025-05-30 20:52:19.430 - Charset 'null' not found.
+2025-05-30 20:52:19.430 - Charset 'null' not found.
+2025-05-30 20:52:19.431 - Charset 'null' not found.
+2025-05-30 20:52:19.431 - Charset 'null' not found.
+2025-05-30 20:52:19.432 - Charset 'null' not found.
+2025-05-30 20:52:19.432 - Charset 'null' not found.
+2025-05-30 20:52:19.432 - Charset 'null' not found.
+2025-05-30 20:52:19.433 - Charset 'null' not found.
+2025-05-30 20:52:19.433 - Charset 'null' not found.
+2025-05-30 20:52:19.434 - Charset 'null' not found.
+2025-05-30 20:52:19.434 - Charset 'null' not found.
+2025-05-30 20:52:19.434 - Charset 'null' not found.
+2025-05-30 20:52:19.435 - Charset 'null' not found.
+2025-05-30 20:52:19.435 - Charset 'null' not found.
+2025-05-30 20:52:19.436 - Charset 'null' not found.
+2025-05-30 20:52:19.436 - Charset 'null' not found.
+2025-05-30 20:52:19.437 - Charset 'null' not found.
+2025-05-30 20:52:19.437 - Charset 'null' not found.
+2025-05-30 20:52:19.438 - Charset 'null' not found.
+2025-05-30 20:52:19.438 - Charset 'null' not found.
+2025-05-30 20:52:19.439 - Charset 'null' not found.
+2025-05-30 20:52:19.439 - Charset 'null' not found.
+2025-05-30 20:52:19.440 - Charset 'null' not found.
+2025-05-30 20:52:19.440 - Charset 'null' not found.
+2025-05-30 20:52:19.440 - Charset 'null' not found.
+2025-05-30 20:52:19.441 - Charset 'null' not found.
+2025-05-30 20:52:19.441 - Charset 'null' not found.
+2025-05-30 20:52:19.442 - Charset 'null' not found.
+2025-05-30 20:52:19.442 - Charset 'null' not found.
+2025-05-30 20:52:19.442 - Charset 'null' not found.
+2025-05-30 20:52:19.443 - Charset 'null' not found.
+2025-05-30 20:52:19.443 - Charset 'null' not found.
+2025-05-30 20:52:19.444 - Charset 'null' not found.
+2025-05-30 20:52:19.444 - Charset 'null' not found.
+2025-05-30 20:52:19.444 - Charset 'null' not found.
+2025-05-30 20:52:19.445 - Charset 'null' not found.
+2025-05-30 20:52:19.445 - Charset 'null' not found.
+2025-05-30 20:52:19.446 - Charset 'null' not found.
+2025-05-30 20:52:19.446 - Charset 'null' not found.
+2025-05-30 20:52:19.447 - Charset 'null' not found.
+2025-05-30 20:52:19.447 - Charset 'null' not found.
+2025-05-30 20:52:19.448 - Charset 'null' not found.
+2025-05-30 20:52:19.448 - Charset 'null' not found.
+2025-05-30 20:52:19.449 - Charset 'null' not found.
+2025-05-30 20:52:19.449 - Charset 'null' not found.
+2025-05-30 20:52:19.450 - Charset 'null' not found.
+2025-05-30 20:52:19.450 - Charset 'null' not found.
+2025-05-30 20:52:19.450 - Charset 'null' not found.
+2025-05-30 20:52:19.451 - Charset 'null' not found.
+2025-05-30 20:52:19.451 - Charset 'null' not found.
+2025-05-30 20:52:19.451 - Charset 'null' not found.
+2025-05-30 20:52:19.452 - Charset 'null' not found.
+2025-05-30 20:52:19.452 - Charset 'null' not found.
+2025-05-30 20:52:19.453 - Charset 'null' not found.
+2025-05-30 20:52:19.453 - Charset 'null' not found.
+2025-05-30 20:52:19.453 - Charset 'null' not found.
+2025-05-30 20:52:19.454 - Charset 'null' not found.
+2025-05-30 20:52:19.454 - Charset 'null' not found.
+2025-05-30 20:52:19.454 - Charset 'null' not found.
+2025-05-30 20:52:19.455 - Charset 'null' not found.
+2025-05-30 20:52:19.455 - Charset 'null' not found.
+2025-05-30 20:52:19.456 - Charset 'null' not found.
+2025-05-30 20:52:19.456 - Charset 'null' not found.
+2025-05-30 20:52:19.456 - Charset 'null' not found.
+2025-05-30 20:52:19.457 - Charset 'null' not found.
+2025-05-30 20:52:19.457 - Charset 'null' not found.
+2025-05-30 20:52:19.458 - Charset 'null' not found.
+2025-05-30 20:52:19.458 - Charset 'null' not found.
+2025-05-30 20:52:19.458 - Charset 'null' not found.
+2025-05-30 20:52:19.459 - Charset 'null' not found.
+2025-05-30 20:52:19.460 - Charset 'null' not found.
+2025-05-30 20:52:19.460 - Charset 'null' not found.
+2025-05-30 20:52:19.461 - Charset 'null' not found.
+2025-05-30 20:52:19.461 - Charset 'null' not found.
+2025-05-30 20:52:19.461 - Charset 'null' not found.
+2025-05-30 20:52:19.462 - Charset 'null' not found.
+2025-05-30 20:52:19.462 - Charset 'null' not found.
+2025-05-30 20:52:19.462 - Charset 'null' not found.
+2025-05-30 20:52:19.463 - Charset 'null' not found.
+2025-05-30 20:52:19.463 - Charset 'null' not found.
+2025-05-30 20:52:19.464 - Charset 'null' not found.
+2025-05-30 20:52:19.464 - Charset 'null' not found.
+2025-05-30 20:52:19.464 - Charset 'null' not found.
+2025-05-30 20:52:19.465 - Charset 'null' not found.
+2025-05-30 20:52:19.465 - Charset 'null' not found.
+2025-05-30 20:52:19.466 - Charset 'null' not found.
+2025-05-30 20:52:19.466 - Charset 'null' not found.
+2025-05-30 20:52:19.467 - Charset 'null' not found.
+2025-05-30 20:52:19.467 - Charset 'null' not found.
+2025-05-30 20:52:19.467 - Charset 'null' not found.
+2025-05-30 20:52:19.468 - Charset 'null' not found.
+2025-05-30 20:52:19.468 - Charset 'null' not found.
+2025-05-30 20:52:19.469 - Charset 'null' not found.
+2025-05-30 20:52:19.469 - Charset 'null' not found.
+2025-05-30 20:52:19.470 - Charset 'null' not found.
+2025-05-30 20:52:19.470 - Charset 'null' not found.
+2025-05-30 20:52:19.470 - Charset 'null' not found.
+2025-05-30 20:52:19.471 - Charset 'null' not found.
+2025-05-30 20:52:19.471 - Charset 'null' not found.
+2025-05-30 20:52:19.472 - Charset 'null' not found.
+2025-05-30 20:52:19.472 - Charset 'null' not found.
+2025-05-30 20:52:19.472 - Charset 'null' not found.
+2025-05-30 20:52:19.473 - Charset 'null' not found.
+2025-05-30 20:52:19.473 - Charset 'null' not found.
+2025-05-30 20:52:19.474 - Charset 'null' not found.
+2025-05-30 20:52:19.474 - Charset 'null' not found.
+2025-05-30 20:52:19.475 - Charset 'null' not found.
+2025-05-30 20:52:19.475 - Charset 'null' not found.
+2025-05-30 20:52:19.475 - Charset 'null' not found.
+2025-05-30 20:52:19.476 - Charset 'null' not found.
+2025-05-30 20:52:19.476 - Charset 'null' not found.
+2025-05-30 20:52:19.477 - Charset 'null' not found.
+2025-05-30 20:52:19.477 - Charset 'null' not found.
+2025-05-30 20:52:19.477 - Charset 'null' not found.
+2025-05-30 20:52:19.478 - Charset 'null' not found.
+2025-05-30 20:52:19.478 - Charset 'null' not found.
+2025-05-30 20:52:19.479 - Charset 'null' not found.
+2025-05-30 20:52:19.479 - Charset 'null' not found.
+2025-05-30 20:52:19.480 - Charset 'null' not found.
+2025-05-30 20:52:19.480 - Charset 'null' not found.
+2025-05-30 20:52:19.481 - Charset 'null' not found.
+2025-05-30 20:52:19.481 - Charset 'null' not found.
+2025-05-30 20:52:19.481 - Charset 'null' not found.
+2025-05-30 20:52:19.482 - Charset 'null' not found.
+2025-05-30 20:52:19.482 - Charset 'null' not found.
+2025-05-30 20:52:19.482 - Charset 'null' not found.
+2025-05-30 20:52:19.483 - Charset 'null' not found.
+2025-05-30 20:52:19.483 - Charset 'null' not found.
+2025-05-30 20:52:19.484 - Charset 'null' not found.
+2025-05-30 20:52:19.484 - Charset 'null' not found.
+2025-05-30 20:52:19.484 - Charset 'null' not found.
+2025-05-30 20:52:19.485 - Charset 'null' not found.
+2025-05-30 20:52:19.485 - Charset 'null' not found.
+2025-05-30 20:52:19.486 - Charset 'null' not found.
+2025-05-30 20:52:19.486 - Charset 'null' not found.
+2025-05-30 20:52:19.486 - Charset 'null' not found.
+2025-05-30 20:52:19.487 - Charset 'null' not found.
+2025-05-30 20:52:19.487 - Charset 'null' not found.
+2025-05-30 20:52:19.488 - Charset 'null' not found.
+2025-05-30 20:52:19.488 - Charset 'null' not found.
+2025-05-30 20:52:19.488 - Charset 'null' not found.
+2025-05-30 20:52:19.489 - Charset 'null' not found.
+2025-05-30 20:52:19.489 - Charset 'null' not found.
+2025-05-30 20:52:19.489 - Charset 'null' not found.
+2025-05-30 20:52:19.490 - Charset 'null' not found.
+2025-05-30 20:52:19.491 - Charset 'null' not found.
+2025-05-30 20:52:19.491 - Charset 'null' not found.
+2025-05-30 20:52:19.491 - Charset 'null' not found.
+2025-05-30 20:52:19.492 - Charset 'null' not found.
+2025-05-30 20:52:19.492 - Charset 'null' not found.
+2025-05-30 20:52:19.493 - Charset 'null' not found.
+2025-05-30 20:52:19.493 - Charset 'null' not found.
+2025-05-30 20:52:19.493 - Charset 'null' not found.
+2025-05-30 20:52:19.494 - Charset 'null' not found.
+2025-05-30 20:54:44.178 - Execution context opened (miBD-hostinger; SQLEditor <Script.sql>; 10)
+[ WARN] (DBeaver: Ler dados [ALTER TABLE clientes MODIFY COLUMN id INT AUTO_INCREMENT PRIMARY KEY]) Error: 1068-42000: Multiple primary key defined
+2025-05-30 20:54:46.250 - Erro SQL [1068] [42000]: (conn=154) Multiple primary key defined
+org.jkiss.dbeaver.model.sql.DBSQLException: Erro SQL [1068] [42000]: (conn=154) Multiple primary key defined
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: (conn=154) Multiple primary key defined
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 12 more
+2025-05-30 20:55:19.177 - Duplicate object name 'GEOMETRY' in cache JDBCBasicDataTypeCache. Last value: `GEOMETRY`
+2025-05-30 20:55:19.178 - Duplicate object name 'POINT' in cache JDBCBasicDataTypeCache. Last value: `POINT`
+2025-05-30 20:55:19.178 - Duplicate object name 'LINESTRING' in cache JDBCBasicDataTypeCache. Last value: LINESTRING
+2025-05-30 20:55:19.178 - Duplicate object name 'POLYGON' in cache JDBCBasicDataTypeCache. Last value: POLYGON
+2025-05-30 20:55:19.178 - Duplicate object name 'MULTIPOINT' in cache JDBCBasicDataTypeCache. Last value: MULTIPOINT
+2025-05-30 20:55:19.179 - Duplicate object name 'MULTILINESTRING' in cache JDBCBasicDataTypeCache. Last value: MULTILINESTRING
+2025-05-30 20:55:19.179 - Duplicate object name 'MULTIPOLYGON' in cache JDBCBasicDataTypeCache. Last value: MULTIPOLYGON
+2025-05-30 20:55:19.179 - Duplicate object name 'GEOMETRYCOLLECTION' in cache JDBCBasicDataTypeCache. Last value: GEOMETRYCOLLECTION
+2025-05-30 20:55:19.252 - Charset 'null' not found.
+2025-05-30 20:55:19.253 - Charset 'null' not found.
+2025-05-30 20:55:19.253 - Charset 'null' not found.
+2025-05-30 20:55:19.254 - Charset 'null' not found.
+2025-05-30 20:55:19.254 - Charset 'null' not found.
+2025-05-30 20:55:19.255 - Charset 'null' not found.
+2025-05-30 20:55:19.255 - Charset 'null' not found.
+2025-05-30 20:55:19.255 - Charset 'null' not found.
+2025-05-30 20:55:19.256 - Charset 'null' not found.
+2025-05-30 20:55:19.256 - Charset 'null' not found.
+2025-05-30 20:55:19.256 - Charset 'null' not found.
+2025-05-30 20:55:19.257 - Charset 'null' not found.
+2025-05-30 20:55:19.257 - Charset 'null' not found.
+2025-05-30 20:55:19.258 - Charset 'null' not found.
+2025-05-30 20:55:19.258 - Charset 'null' not found.
+2025-05-30 20:55:19.259 - Charset 'null' not found.
+2025-05-30 20:55:19.259 - Charset 'null' not found.
+2025-05-30 20:55:19.259 - Charset 'null' not found.
+2025-05-30 20:55:19.260 - Charset 'null' not found.
+2025-05-30 20:55:19.260 - Charset 'null' not found.
+2025-05-30 20:55:19.261 - Charset 'null' not found.
+2025-05-30 20:55:19.261 - Charset 'null' not found.
+2025-05-30 20:55:19.261 - Charset 'null' not found.
+2025-05-30 20:55:19.262 - Charset 'null' not found.
+2025-05-30 20:55:19.262 - Charset 'null' not found.
+2025-05-30 20:55:19.262 - Charset 'null' not found.
+2025-05-30 20:55:19.263 - Charset 'null' not found.
+2025-05-30 20:55:19.263 - Charset 'null' not found.
+2025-05-30 20:55:19.264 - Charset 'null' not found.
+2025-05-30 20:55:19.264 - Charset 'null' not found.
+2025-05-30 20:55:19.264 - Charset 'null' not found.
+2025-05-30 20:55:19.265 - Charset 'null' not found.
+2025-05-30 20:55:19.265 - Charset 'null' not found.
+2025-05-30 20:55:19.266 - Charset 'null' not found.
+2025-05-30 20:55:19.266 - Charset 'null' not found.
+2025-05-30 20:55:19.267 - Charset 'null' not found.
+2025-05-30 20:55:19.267 - Charset 'null' not found.
+2025-05-30 20:55:19.267 - Charset 'null' not found.
+2025-05-30 20:55:19.268 - Charset 'null' not found.
+2025-05-30 20:55:19.268 - Charset 'null' not found.
+2025-05-30 20:55:19.268 - Charset 'null' not found.
+2025-05-30 20:55:19.269 - Charset 'null' not found.
+2025-05-30 20:55:19.269 - Charset 'null' not found.
+2025-05-30 20:55:19.270 - Charset 'null' not found.
+2025-05-30 20:55:19.270 - Charset 'null' not found.
+2025-05-30 20:55:19.270 - Charset 'null' not found.
+2025-05-30 20:55:19.271 - Charset 'null' not found.
+2025-05-30 20:55:19.271 - Charset 'null' not found.
+2025-05-30 20:55:19.271 - Charset 'null' not found.
+2025-05-30 20:55:19.272 - Charset 'null' not found.
+2025-05-30 20:55:19.272 - Charset 'null' not found.
+2025-05-30 20:55:19.273 - Charset 'null' not found.
+2025-05-30 20:55:19.273 - Charset 'null' not found.
+2025-05-30 20:55:19.273 - Charset 'null' not found.
+2025-05-30 20:55:19.274 - Charset 'null' not found.
+2025-05-30 20:55:19.274 - Charset 'null' not found.
+2025-05-30 20:55:19.275 - Charset 'null' not found.
+2025-05-30 20:55:19.275 - Charset 'null' not found.
+2025-05-30 20:55:19.275 - Charset 'null' not found.
+2025-05-30 20:55:19.276 - Charset 'null' not found.
+2025-05-30 20:55:19.276 - Charset 'null' not found.
+2025-05-30 20:55:19.277 - Charset 'null' not found.
+2025-05-30 20:55:19.277 - Charset 'null' not found.
+2025-05-30 20:55:19.277 - Charset 'null' not found.
+2025-05-30 20:55:19.278 - Charset 'null' not found.
+2025-05-30 20:55:19.278 - Charset 'null' not found.
+2025-05-30 20:55:19.279 - Charset 'null' not found.
+2025-05-30 20:55:19.279 - Charset 'null' not found.
+2025-05-30 20:55:19.279 - Charset 'null' not found.
+2025-05-30 20:55:19.280 - Charset 'null' not found.
+2025-05-30 20:55:19.280 - Charset 'null' not found.
+2025-05-30 20:55:19.280 - Charset 'null' not found.
+2025-05-30 20:55:19.281 - Charset 'null' not found.
+2025-05-30 20:55:19.281 - Charset 'null' not found.
+2025-05-30 20:55:19.282 - Charset 'null' not found.
+2025-05-30 20:55:19.282 - Charset 'null' not found.
+2025-05-30 20:55:19.282 - Charset 'null' not found.
+2025-05-30 20:55:19.283 - Charset 'null' not found.
+2025-05-30 20:55:19.283 - Charset 'null' not found.
+2025-05-30 20:55:19.283 - Charset 'null' not found.
+2025-05-30 20:55:19.284 - Charset 'null' not found.
+2025-05-30 20:55:19.284 - Charset 'null' not found.
+2025-05-30 20:55:19.285 - Charset 'null' not found.
+2025-05-30 20:55:19.285 - Charset 'null' not found.
+2025-05-30 20:55:19.285 - Charset 'null' not found.
+2025-05-30 20:55:19.286 - Charset 'null' not found.
+2025-05-30 20:55:19.286 - Charset 'null' not found.
+2025-05-30 20:55:19.287 - Charset 'null' not found.
+2025-05-30 20:55:19.287 - Charset 'null' not found.
+2025-05-30 20:55:19.288 - Charset 'null' not found.
+2025-05-30 20:55:19.288 - Charset 'null' not found.
+2025-05-30 20:55:19.289 - Charset 'null' not found.
+2025-05-30 20:55:19.289 - Charset 'null' not found.
+2025-05-30 20:55:19.289 - Charset 'null' not found.
+2025-05-30 20:55:19.290 - Charset 'null' not found.
+2025-05-30 20:55:19.290 - Charset 'null' not found.
+2025-05-30 20:55:19.291 - Charset 'null' not found.
+2025-05-30 20:55:19.291 - Charset 'null' not found.
+2025-05-30 20:55:19.292 - Charset 'null' not found.
+2025-05-30 20:55:19.292 - Charset 'null' not found.
+2025-05-30 20:55:19.293 - Charset 'null' not found.
+2025-05-30 20:55:19.293 - Charset 'null' not found.
+2025-05-30 20:55:19.294 - Charset 'null' not found.
+2025-05-30 20:55:19.294 - Charset 'null' not found.
+2025-05-30 20:55:19.295 - Charset 'null' not found.
+2025-05-30 20:55:19.295 - Charset 'null' not found.
+2025-05-30 20:55:19.295 - Charset 'null' not found.
+2025-05-30 20:55:19.296 - Charset 'null' not found.
+2025-05-30 20:55:19.296 - Charset 'null' not found.
+2025-05-30 20:55:19.297 - Charset 'null' not found.
+2025-05-30 20:55:19.297 - Charset 'null' not found.
+2025-05-30 20:55:19.298 - Charset 'null' not found.
+2025-05-30 20:55:19.298 - Charset 'null' not found.
+2025-05-30 20:55:19.299 - Charset 'null' not found.
+2025-05-30 20:55:19.299 - Charset 'null' not found.
+2025-05-30 20:55:19.300 - Charset 'null' not found.
+2025-05-30 20:55:19.300 - Charset 'null' not found.
+2025-05-30 20:55:19.300 - Charset 'null' not found.
+2025-05-30 20:55:19.301 - Charset 'null' not found.
+2025-05-30 20:55:19.301 - Charset 'null' not found.
+2025-05-30 20:55:19.301 - Charset 'null' not found.
+2025-05-30 20:55:19.302 - Charset 'null' not found.
+2025-05-30 20:55:19.302 - Charset 'null' not found.
+2025-05-30 20:55:19.302 - Charset 'null' not found.
+2025-05-30 20:55:19.303 - Charset 'null' not found.
+2025-05-30 20:55:19.303 - Charset 'null' not found.
+2025-05-30 20:55:19.303 - Charset 'null' not found.
+2025-05-30 20:55:19.304 - Charset 'null' not found.
+2025-05-30 20:55:19.304 - Charset 'null' not found.
+2025-05-30 20:55:19.304 - Charset 'null' not found.
+2025-05-30 20:55:19.305 - Charset 'null' not found.
+2025-05-30 20:55:19.305 - Charset 'null' not found.
+2025-05-30 20:55:19.305 - Charset 'null' not found.
+2025-05-30 20:55:19.306 - Charset 'null' not found.
+2025-05-30 20:55:19.306 - Charset 'null' not found.
+2025-05-30 20:55:19.306 - Charset 'null' not found.
+2025-05-30 20:55:19.307 - Charset 'null' not found.
+2025-05-30 20:55:19.307 - Charset 'null' not found.
+2025-05-30 20:55:19.307 - Charset 'null' not found.
+2025-05-30 20:55:19.308 - Charset 'null' not found.
+2025-05-30 20:55:19.308 - Charset 'null' not found.
+2025-05-30 20:55:19.309 - Charset 'null' not found.
+2025-05-30 20:55:19.309 - Charset 'null' not found.
+2025-05-30 20:55:19.310 - Charset 'null' not found.
+2025-05-30 20:55:19.310 - Charset 'null' not found.
+2025-05-30 20:55:19.311 - Charset 'null' not found.
+2025-05-30 20:55:19.311 - Charset 'null' not found.
+2025-05-30 20:55:19.311 - Charset 'null' not found.
+2025-05-30 20:55:19.312 - Charset 'null' not found.
+2025-05-30 20:55:19.312 - Charset 'null' not found.
+2025-05-30 20:55:19.312 - Charset 'null' not found.
+2025-05-30 20:55:19.313 - Charset 'null' not found.
+2025-05-30 20:55:19.313 - Charset 'null' not found.
+2025-05-30 20:55:19.313 - Charset 'null' not found.
+2025-05-30 20:55:19.314 - Charset 'null' not found.
+2025-05-30 20:55:19.314 - Charset 'null' not found.
+2025-05-30 20:55:19.314 - Charset 'null' not found.
+2025-05-30 20:55:19.315 - Charset 'null' not found.
+2025-05-30 20:55:19.315 - Charset 'null' not found.
+2025-05-30 20:55:19.315 - Charset 'null' not found.
+2025-05-30 20:55:19.316 - Charset 'null' not found.
+2025-05-30 20:55:19.316 - Charset 'null' not found.
+2025-05-30 20:55:19.316 - Charset 'null' not found.
+2025-05-30 20:55:19.317 - Charset 'null' not found.
+2025-05-30 20:55:19.317 - Charset 'null' not found.
+2025-05-30 20:55:19.318 - Charset 'null' not found.
+2025-05-30 20:55:19.319 - Charset 'null' not found.
+2025-05-30 20:55:19.319 - Charset 'null' not found.
+2025-05-30 20:55:19.319 - Charset 'null' not found.
+2025-05-30 20:55:19.320 - Charset 'null' not found.
+2025-05-30 20:55:19.320 - Charset 'null' not found.
+2025-05-30 20:55:19.321 - Charset 'null' not found.
+2025-05-30 20:55:19.321 - Charset 'null' not found.
+2025-05-30 20:55:19.322 - Charset 'null' not found.
+2025-05-30 20:55:19.322 - Charset 'null' not found.
+2025-05-30 20:55:19.322 - Charset 'null' not found.
+2025-05-30 20:55:19.323 - Charset 'null' not found.
+2025-05-30 20:55:19.323 - Charset 'null' not found.
+2025-05-30 20:55:19.323 - Charset 'null' not found.
+2025-05-30 20:55:19.324 - Charset 'null' not found.
+2025-05-30 20:55:19.324 - Charset 'null' not found.
+2025-05-30 20:55:19.324 - Charset 'null' not found.
+2025-05-30 20:55:19.325 - Charset 'null' not found.
+2025-05-30 20:55:19.325 - Charset 'null' not found.
+2025-05-30 20:56:47.068 - Execution context closed (miBD-hostinger, 7)
+2025-05-30 20:57:10.260 - Execution context opened (miBD-hostinger; SQLEditor <Script.sql>; 11)
+2025-05-30 20:57:13.150 - Delete empty SQL script '\General\Scripts\Script.sql'
+2025-05-30 20:57:13.158 - Execution context closed (miBD-hostinger, 11)
+2025-05-30 20:57:21.374 - Execution context opened (miBD-hostinger; SQLEditor <Script.sql>; 12)
+2025-05-30 20:58:12.902 - Execution context opened (miBD-hostinger; SQLEditor <Script.sql>; 13)
+[ WARN] (DBeaver: Ler dados [INSERT INTO produtos (nome, categoria, preco, estoque) VALUES
+('Notebook Dell Inspiron', 'Notebooks', 4299.90, 15),
+('Mouse Logitech MX Master 3', 'Periféricos', 399.90, 30),
+('Teclado Mecânico Redragon', 'Periféricos', 299.90, 25),
+('Monitor LG 24" Full HD', 'Monitores', 899.90, 12),
+('SSD Kingston 500GB', 'Armazenamento', 289.90, 40),
+('Processador Intel Core i7', 'Hardware', 1899.90, 8),
+('Placa de Vídeo RTX 3060', 'Hardware', 2499.90, 5),
+('Webcam Logitech C920', 'Acessórios', 349.90, 20),
+('Roteador TP-Link Archer', 'Redes', 299.90, 18),
+('Impressora HP Deskjet', 'Impressão', 499.90, 10),
+('Headset HyperX Cloud II', 'Áudio', 599.90, 15),
+('Tablet Samsung Galaxy Tab', 'Tablets', 1299.90, 7),
+('HD Externo Seagate 1TB', 'Armazenamento', 349.90, 22),
+('Fonte Corsair 650W', 'Hardware', 499.90, 9),
+('Cadeira Gamer DXRacer', 'Móveis', 1599.90, 4),
+('Smartphone Xiaomi Redmi Note', 'Celulares', 1499.90, 14),
+('Hub USB-C 7 em 1', 'Acessórios', 149.90, 35),
+('Coo) Error: 1364-HY000: Field 'id' doesn't have a default value
+2025-05-30 20:58:15.783 - Erro SQL [1364] [HY000]: (conn=157) Field 'id' doesn't have a default value
+org.jkiss.dbeaver.model.sql.DBSQLException: Erro SQL [1364] [HY000]: (conn=157) Field 'id' doesn't have a default value
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:572)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLException: (conn=157) Field 'id' doesn't have a default value
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:306)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 11 more
+2025-05-30 20:58:45.043 - Execution context opened (miBD-hostinger; SQLEditor <Script-2.sql>; 14)
+2025-05-30 21:00:31.307 - Execution context closed (miBD-hostinger, 12)
+2025-05-30 21:00:32.558 - Execution context closed (miBD-hostinger, 10)
+2025-05-30 21:00:34.120 - Execution context closed (miBD-hostinger, 13)
+2025-05-30 21:00:34.824 - Execution context closed (miBD-hostinger, 14)
+2025-05-30 21:01:20.992 - Execution context opened (miBD-hostinger; SQLEditor <Script.sql>; 15)
+2025-05-30 21:01:23.698 - Delete empty SQL script '\General\Scripts\Script.sql'
+2025-05-30 21:01:23.708 - Execution context closed (miBD-hostinger, 15)
+2025-05-30 21:01:31.027 - Execution context opened (miBD-hostinger; SQLEditor <Script.sql>; 16)
+[ WARN] (DBeaver: Ler dados [select * productos order by nome]) Error: 1064-42000: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'productos order by nome
+LIMIT 0, 200' at line 1
+2025-05-30 21:02:06.867 - Erro SQL [1064] [42000]: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'productos order by nome
+LIMIT 0, 200' at line 1
+
+Posição do erro:
+org.jkiss.dbeaver.model.sql.DBSQLException: Erro SQL [1064] [42000]: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'productos order by nome
+LIMIT 0, 200' at line 1
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'productos order by nome
+LIMIT 0, 200' at line 1
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 12 more
+[ WARN] (DBeaver: Ler dados [select * from productos order by nome]) Error: 1146-42S02: Table 'mi_basedatos.productos' doesn't exist
+2025-05-30 21:02:18.939 - Erro SQL [1146] [42S02]: (conn=160) Table 'mi_basedatos.productos' doesn't exist
+org.jkiss.dbeaver.model.sql.DBSQLException: Erro SQL [1146] [42S02]: (conn=160) Table 'mi_basedatos.productos' doesn't exist
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: (conn=160) Table 'mi_basedatos.productos' doesn't exist
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 12 more
+[ WARN] (DBeaver: Ler dados [select * from produtos where categoria=Notebooks]) Error: 1054-42S22: Unknown column 'Notebooks' in 'WHERE'
+2025-05-30 21:05:38.464 - Erro SQL [1054] [42S22]: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+org.jkiss.dbeaver.model.sql.DBSQLException: Erro SQL [1054] [42S22]: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 12 more
+> Start DBeaver PostgreSQL Model [org.jkiss.dbeaver.ext.postgresql 2.1.228.202505181758]
+> Start DBeaver PostgreSQL UI [org.jkiss.dbeaver.ext.postgresql.ui 1.0.131.202505181758]
+[ WARN] (DBeaver: Ler dados [select * from produtos where categoria=Notebooks]) Error: 1054-42S22: Unknown column 'Notebooks' in 'WHERE'
+2025-05-30 21:08:22.331 - Erro SQL [1054] [42S22]: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+org.jkiss.dbeaver.model.sql.DBSQLException: Erro SQL [1054] [42S22]: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 12 more
+[ WARN] (DBeaver: Ler dados [select * from produtos where categoria in (Notebooks)]) Error: 1054-42S22: Unknown column 'Notebooks' in 'WHERE'
+2025-05-30 21:09:28.271 - Erro SQL [1054] [42S22]: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+org.jkiss.dbeaver.model.sql.DBSQLException: Erro SQL [1054] [42S22]: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: (conn=160) Unknown column 'Notebooks' in 'WHERE'
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 12 more
+[ WARN] (DBeaver: Ler dados [-- Mostre os produtos com preço maior que R$ 2.000,00.
+SELECT nome, preco, estoque
+FROM produtos
+WHERE preco>2000,00]) Error: 1064-42000: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '00' at line 4
+2025-05-30 21:13:27.661 - Erro SQL [1064] [42000]: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '00' at line 4
+
+Posição do erro: line: 3
+org.jkiss.dbeaver.model.sql.DBSQLException: Erro SQL [1064] [42000]: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '00' at line 4
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '00' at line 4
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 12 more
+[ WARN] (DBeaver: Ler dados [-- Liste os produtos ordenados pelo estoque do maior para o menor.
+select nome, preco, estoque from produtos order by estoque stoque]) Error: 1064-42000: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'stoque' at line 2
+2025-05-30 21:18:06.766 - Erro SQL [1064] [42000]: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'stoque' at line 2
+org.jkiss.dbeaver.model.sql.DBSQLException: Erro SQL [1064] [42000]: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'stoque' at line 2
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:130)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeStatement(SQLQueryJob.java:657)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.lambda$2(SQLQueryJob.java:550)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.executeSingleQuery(SQLQueryJob.java:569)
+	at org.jkiss.dbeaver.ui.editors.sql.execute.SQLQueryJob.extractData(SQLQueryJob.java:1043)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor$QueryResultsContainer.readData(SQLEditor.java:4345)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.lambda$0(ResultSetJobDataRead.java:128)
+	at org.jkiss.dbeaver.model.exec.DBExecUtils.tryExecuteRecover(DBExecUtils.java:189)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetJobDataRead.run(ResultSetJobDataRead.java:126)
+	at org.jkiss.dbeaver.ui.controls.resultset.ResultSetViewer$ResultSetDataPumpJob.run(ResultSetViewer.java:5146)
+	at org.jkiss.dbeaver.model.runtime.AbstractJob.run(AbstractJob.java:119)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.sql.SQLSyntaxErrorException: (conn=160) You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'stoque' at line 2
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:289)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:378)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:187)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:1347)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:1286)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:1205)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:1129)
+	at org.mariadb.jdbc.Statement.executeInternal(Statement.java:1003)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:1132)
+	at org.mariadb.jdbc.Statement.execute(Statement.java:471)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.execute(JDBCStatementImpl.java:344)
+	at org.jkiss.dbeaver.model.impl.jdbc.exec.JDBCStatementImpl.executeStatement(JDBCStatementImpl.java:128)
+	... 12 more
+2025-05-30 21:50:28.935 - SWT resource leak detected
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:184)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:121)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:226)
+	at org.jkiss.dbeaver.ui.editors.sql.SQLEditor.doSetInput(SQLEditor.java:2333)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInputWithNotify(AbstractTextEditor.java:4249)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.setInput(AbstractTextEditor.java:4269)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener$1.run(AbstractTextEditor.java:537)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.execute(AbstractTextEditor.java:598)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$ElementStateListener.elementMoved(AbstractTextEditor.java:565)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider$FileBufferListener.underlyingFileMoved(TextFileDocumentProvider.java:335)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager$6.run(TextFileBufferManager.java:710)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.fireUnderlyingFileMoved(TextFileBufferManager.java:707)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.handleFileMoved(ResourceFileBuffer.java:422)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$FileSynchronizer$3.execute(ResourceFileBuffer.java:163)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$SafeFileChange.run(ResourceFileBuffer.java:86)
+	at org.eclipse.ui.internal.editors.text.UISynchronizationContext.run(UISynchronizationContext.java:35)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.execute(TextFileBufferManager.java:593)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer$FileSynchronizer.resourceChanged(ResourceFileBuffer.java:184)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:321)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:311)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:174)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:465)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1593)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1564)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1515)
+	at org.jkiss.dbeaver.ui.editors.sql.handlers.SQLEditorHandlerRenameFile.renameFile(SQLEditorHandlerRenameFile.java:84)
+	at org.jkiss.dbeaver.ui.e4.DBeaverStackRenderer$5.widgetSelected(DBeaverStackRenderer.java:254)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:286)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4321)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1208)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4119)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3707)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:668)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:576)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.jkiss.dbeaver.ui.app.standalone.DBeaverApplication.start(DBeaverApplication.java:311)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:149)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:115)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:467)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:298)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.invokeFramework(DBeaverLauncher.java:797)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.basicRun(DBeaverLauncher.java:635)
+	at org.jkiss.dbeaver.launcher.DBeaverLauncher.run(DBeaverLauncher.java:1578)
+2025-05-30 21:57:50.104 - Execution context closed (miBD-hostinger, 5)
+2025-05-30 21:57:50.141 - Execution context closed (miBD-hostinger, 8)
+2025-05-30 21:57:50.179 - Execution context closed (miBD-hostinger, 9)
+2025-05-30 21:57:50.223 - Execution context closed (miBD-hostinger, 16)
+2025-05-30 21:57:50.510 - Dispose navigator model
+2025-05-30 21:57:50.543 - DBeaver is stopping
+2025-05-30 21:57:50.544 - Stop instance server
+2025-05-30 21:57:51.549 - Instance server has been stopped
+2025-05-30 21:57:51.549 - DBeaver shutdown completed

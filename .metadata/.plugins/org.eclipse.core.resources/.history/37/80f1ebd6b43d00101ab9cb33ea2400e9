@@ -1,0 +1,14 @@
+-- Selecione todos os produtos cadastrados.
+select * from produtos order by nome
+
+-- Selecione apenas os nomes e preços dos produtos.
+select nome,preco from produtos order by nome 
+
+-- Selecione os produtos da categoria 'Notebook'.
+SELECT nome, preco, estoque
+FROM produtos
+WHERE categoria="Notebooks";
+
+-- Mostre os produtos com preço maior que R$ 2.000,00.
+
+

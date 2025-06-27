@@ -1,0 +1,22 @@
+CREATE TABLE Clientes (
+ id_cliente integer PRIMARY KEY,
+ nome varchar(10)
+);
+
+
+CREATE TABLE Pedidos (
+	id_pedido integer PRIMARY key, 
+	id_cliente integer,
+	data_pedido date,
+	foreign key (id_cliente) references Clientes (id_cliente)
+); 
+
+
+
+INSERT INTO Clientes (id_cliente,nome) VALUES
+(1,'Maria'),
+(2,'João');
+
+INSERT INTO Pedidos (id_pedido,id_cliente,data_pedido) VALUES
+(101, 1, '2025-06-01'),
+(102, 2, '2025-06-02');
