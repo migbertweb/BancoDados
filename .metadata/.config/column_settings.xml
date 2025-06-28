@@ -9,16 +9,16 @@
 		<column name="Descrição" visible="true" order="5" width="100"/>
 	</item>
 	<item id="Suggestion/NodeList/MySQLTableColumn">
-		<column name="Nome da coluna" visible="true" order="0" width="143"/>
-		<column name="#" visible="true" order="1" width="41"/>
-		<column name="Tipo de dados" visible="true" order="2" width="102"/>
+		<column name="Nome da coluna" visible="true" order="0" width="123"/>
+		<column name="#" visible="true" order="1" width="48"/>
+		<column name="Tipo de dados" visible="true" order="2" width="109"/>
 		<column name="Não nulo" visible="false" order="3" width="100"/>
 		<column name="Auto-incremento" visible="false" order="4" width="106"/>
 		<column name="Chave" visible="false" order="5" width="100"/>
 		<column name="Padrão" visible="false" order="6" width="100"/>
 		<column name="Extra" visible="false" order="7" width="100"/>
 		<column name="Expressão" visible="false" order="8" width="100"/>
-		<column name="Comentário" visible="true" order="3" width="91"/>
+		<column name="Comentário" visible="true" order="3" width="98"/>
 	</item>
 	<item id="scriptSelectorViewer">
 		<column name="Script" visible="true" order="0" width="167"/>

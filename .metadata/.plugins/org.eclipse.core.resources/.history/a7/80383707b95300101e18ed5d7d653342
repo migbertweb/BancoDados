@@ -1,0 +1,12 @@
+CREATE TABLE cursos (
+ id_curso integer PRIMARY KEY AUTO_INCREMENT,
+ nome_curso varchar(20),
+ carga_horaria integer
+);
+
+CREATE TABLE alunos (
+ id_aluno integer PRIMARY KEY AUTO_INCREMENT,
+ nome_aluno varchar(50),
+ email varchar(50),
+ id_curso integer,
+);
